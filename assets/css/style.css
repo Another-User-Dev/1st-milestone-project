@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.outerheader {
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+.innerheader {
+    width: 1280px;
+    height: 100%;
+    background-color: blue;
+    color:white;
+    display: block;
+    margin: 0 auto;    
+}
+
+.logo a {
+    color:white;
+    font-weight: 700;
+    font-size: 280%;
+    text-decoration: none;
+    letter-spacing: 4px;
+}
+
+.logo a, a:link, a:visited, a:active  {
+    text-decoration: none;
+    color: white;
+}
+
+.navigation li{
+    color:white;
+    text-transform: uppercase;
+    display: block;
+    padding: 4px;
+    list-style: none;
+    float: left;       
+    }
+
+
+.navigation {   
+    float: right;    
+}
+
+
+
