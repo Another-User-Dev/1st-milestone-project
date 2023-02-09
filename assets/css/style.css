@@ -30,44 +30,52 @@
     
 }
 
-#menu {
-    line-height: 75px;
-}
-
-
-
- 
-
-#menu {
+.menu {
     color:white;
     font-size: 110%;
     font-family: 'Montserrat', sans-serif;
     list-style-type: none;
     letter-spacing: 4px;
     text-transform: uppercase;
+    line-height: 75px;
 }
 
-#menu li { 
+.menu li { 
     float: right;
     margin-right: 30px;
 } 
 
-#menu a {
+.menu a {
     color: white;
 }
 
 /*------hover mouse animation--------*/
 
-#menu a:hover {
+.menu a:hover {
     color: pink;
     background-color: black;
-    }
+    } 
 
 .logo a:hover {
     color: pink;
     background-color: black
 }
 
+/*...............styling for Hamburger menu..........*/
+
+label {
+    clear: both;
+    float: left;
+    float: right;
+    margin: 0 40px 0 0;
+    font-size: 26px;
+    line-height: 75px;
+    display: none;
+}
+
+#toggle {
+    display: none;
+}
 
 /* .......hero image........ */
 
@@ -100,23 +108,23 @@ to {
 /*......................style content page............*/
 
 .style-section-page {
-    max-width: 100%;
+    max-width: auto;
     width: 100%;
     background-color: aqua;
-    height: 1000px;
+    height: auto;
 }
 
 .style-div-page {
 
     width: 100%;
     max-width: 1200px;
-    height: 1000px;
+    height: auto;
     background-color: aqua;
     margin: 0 auto;
 }
 
 .flex-container {  
-    height: 1000px; 
+    height: auto; 
     display: flex; 
     flex-flow: row;
     flex-wrap: wrap;
@@ -149,13 +157,14 @@ to {
 .footer-end {
     width: 100%;
     background-color: aqua;
+    height: auto;
 }
 
 .footer-container {
 
     width: 100%;
     max-width: 1200px;
-    height: 300px;
+    height: auto;
     background-color: cyan;
     margin: 0 auto;
 }
@@ -164,7 +173,7 @@ to {
     display: flex; 
     flex-flow: row;
     flex-wrap: wrap;
-    justify-content: start;
+    justify-content:space-between;
     align-items: center;
 }
 
@@ -172,18 +181,18 @@ to {
     margin-top: 40px;
     margin-bottom: 40px;
     height: 135px;
-    width: 33%;
+    width: 30%;
     min-width: 300px;
     border-style: none;
     border-color: black;
     border-width: 1px;
-    text-align: left;
+    text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
 
 .social-networks {
     font-size: 100%;
-    text-align: right;
+    text-align: center;
 }
 
 .social-networks li {
@@ -198,4 +207,32 @@ to {
     text-align: center;
 }
 
+/*.........media query...........*/
+@media screen and (max-width: 600px) {
 
+    .hero-outer {
+        display: none;
+    }
+
+  label {
+        display: block;
+        cursor: pointer;
+  }
+
+  .menu {
+    text-align: center;
+    width: 100%;
+    display: none;
+  }
+
+  .menu a {
+    display: flex;
+    border-bottom: 1px solid red;
+  }
+
+  #toggle:checked + .menu {
+    display: block;
+  }
+
+
+}
