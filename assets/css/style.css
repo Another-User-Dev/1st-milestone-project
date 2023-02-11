@@ -64,13 +64,13 @@
 
 /*...............styling for Hamburger menu..........*/
 
-#toggle label {
+label[for="toggle"] {
     clear: right;
     margin-right: 40px;
     font-size: 30px;
     line-height: 70px;
     width: 30px;
-    display: hidden;
+    display: none;
     float: right;
 }
 
@@ -201,8 +201,10 @@ to {
     letter-spacing: 8px;
 }
 
-#student {
+#student { 
     margin-top: 50px;
+    font-size: x-small;
+    font-family: 'Montserrat', sans-serif;
     background: black;
     color: white;
     text-align: center;
@@ -219,7 +221,9 @@ to {
     max-width: auto;
     }
 
-#toggle label {
+label[for="toggle"] {
+    top: 75px;
+    right: 20px;
     display: block;
     cursor: pointer;
   }
@@ -231,8 +235,8 @@ to {
   }
 
 .menu a {
-    display: flex;
-    flex-direction: row-reverse;
+    margin-top: 200px;
+    display: block;
     border-bottom: 1px solid coral;
   }
 
