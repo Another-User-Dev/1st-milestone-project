@@ -38,6 +38,7 @@
     letter-spacing: 4px;
     text-transform: uppercase;
     line-height: 75px;
+    overflow: hidden;
 }
 
 .menu li { 
@@ -63,14 +64,14 @@
 
 /*...............styling for Hamburger menu..........*/
 
-label {
-    clear: both;
-    float: left;
+#toggle label {
+    clear: right;
+    margin-right: 40px;
+    font-size: 30px;
+    line-height: 70px;
+    width: 30px;
+    display: hidden;
     float: right;
-    margin: 0 40px 0 0;
-    font-size: 26px;
-    line-height: 75px;
-    display: none;
 }
 
 #toggle {
@@ -208,31 +209,40 @@ to {
 }
 
 /*.........media query...........*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 672px) {
 
-    .hero-outer {
-        display: none;
+.hero-outer {
+    display: none;
     }
 
-  label {
-        display: block;
-        cursor: pointer;
+.style-div-page {
+    max-width: auto;
+    }
+
+#toggle label {
+    display: block;
+    cursor: pointer;
   }
 
-  .menu {
+.menu {
     text-align: center;
     width: 100%;
     display: none;
   }
 
-  .menu a {
+.menu a {
     display: flex;
-    border-bottom: 1px solid red;
+    flex-direction: row-reverse;
+    border-bottom: 1px solid coral;
   }
 
-  #toggle:checked + .menu {
+  .menu li {
+    
+    border-bottom: 1px solid red;
+    height: auto;
+  }
+
+  #toggle:checked+.menu {
     display: block;
   }
-
-
 }
