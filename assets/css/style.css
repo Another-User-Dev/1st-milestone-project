@@ -190,14 +190,37 @@ to {
 
 /*..hero text mobile..*/
 
-.hero-text-mobile {
+.hero-text-mobile-section {
     background-color: #bde0fe;
     height: auto;
+    text-align: center;
     width: 100%;
-    padding-top: 40px;
+    font-size: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+
+}
+
+.hero-text-mobile {
+    background-color: #bde0fe;
+    height: 100%;
+    width: 100%;
+    padding-top: 40px;    
+}
+
+.hero-text-mobile h1 {
     text-align: center;
     color: #16264c;
-    font-size: 0.75em;
+    font-size: 1.3em;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: capitalize;
+    font-weight: 100;
+}
+
+.hero-text-mobile h2 {
+    text-align: center;
+    color: #16264c;
+    font-size: 1em;
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
 }
@@ -220,7 +243,7 @@ to {
     width: 100%;
     background-color: #bde0fe;
     display: block;
-    height: auto;
+    height: 100%;
     
 }
 
@@ -228,12 +251,12 @@ to {
 
     width: 100%;
     max-width: 1200px;
-    height: auto;
+    height: 100%;
     background-color: #bde0fe; 
     display: block;   
     margin: 0 auto;
     padding-bottom: 40px;
-    padding-top: 40px;
+    padding-top: 0px;
 }
 
 .flex-container {  
@@ -254,7 +277,7 @@ to {
     border-color: #16264c;
     border-width: 2px;
     border-radius: 8px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     }
 
 .box h1 {
