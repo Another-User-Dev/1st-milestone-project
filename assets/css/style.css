@@ -457,3 +457,34 @@ label[for="toggle"] {
     display: none;
 }
 }
+
+/* ........styling for gallery page.......*/
+
+.gallery-container {
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.gallery-container .gallery-title {
+    font-size: 1.5rem;
+    background-color: #98c1d9;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 200;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 15px;
+}
+
+.gallery-container .image-container {
+    columns: 3 250px;
+    gap: 15px;
+}
+
+.gallery-container .image-container img {
+    margin-bottom: 10px;
+    border-radius: 4px;
+    width: 100%;
+}
