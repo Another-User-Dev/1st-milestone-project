@@ -488,3 +488,11 @@ label[for="toggle"] {
     border-radius: 4px;
     width: 100%;
 }
+
+/*..........styling forms.........*/
+
+.form-container {
+    width: 1200px;
+    height: 400px;
+    
+}
