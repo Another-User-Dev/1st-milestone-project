@@ -526,6 +526,7 @@ label[for="toggle"] {
 
 .form-container form {
     border: solid 1px #16264c;
+    font-size: 1.2rem;
     color: #16264c;
     margin-top: 40px;
     width: 75%;
@@ -586,5 +587,6 @@ label[for="toggle"] {
     background: grey;
     border-radius: 4px;
     padding: 5px;
+    transition: 0.5s ease-in-out;
     cursor: pointer;
 }
