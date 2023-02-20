@@ -104,6 +104,11 @@
     background-color: black;  
 }
 
+.form-container #send:hover {
+    color: pink;
+    background-color: black;
+}
+
 
 
 /*...............styling for Hamburger menu..........*/
@@ -491,8 +496,95 @@ label[for="toggle"] {
 
 /*..........styling forms.........*/
 
-.form-container {
-    width: 1200px;
-    height: 400px;
+.form-container-section {
+    max-width: 1200px;
+    margin: 20px auto;
+    display: block;
+}
+
+.form-container-section h1 {
+    font-size: 1.5rem;
+    background-color: #98c1d9;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 200;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 15px;
     
+}
+
+.form-container {
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    
+}
+
+.form-container form {
+    border: solid 1px #16264c;
+    color: #16264c;
+    margin-top: 40px;
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.form-container legend {
+
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: none;
+
+}
+
+#name {
+    width: 65%;
+    border: solid 1px #16264c;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#email-address {
+
+    width: 65%;
+    border: solid 1px #16264c;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#contact-number {
+
+    width: 65%;
+    border: solid 1px #16264c;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+#query {
+    width: 80%;
+    height: 5em;
+    border: solid 1px #16264c;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.form-container input[type=submit] {
+    color:#16264c;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+    background: grey;
+    border-radius: 4px;
+    padding: 5px;
+    cursor: pointer;
 }
