@@ -1,108 +1,188 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# PROJECT MILESTONE ONE - STYLE CONTROL WEBSITE
 
-Welcome Another-User-Dev,
+<img src="assets/images/responsiveness.jpg" alt="Am I Responsive">
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Website:
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.  of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+Live deployed [link](https://another-user-dev.github.io/1st-milestone-project/)
 
-## Gitpod Reminders
+https://another-user-dev.github.io/1st-milestone-project/
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This is my first website for the milestone one project. A requirement by Code Institute as part of their learning module and count towards a Level 5 Qualification.
 
-`python3 -m http.server`
+<hr>
 
-A blue button should appear to click: _Make Public_,
+# The main aim of this website
+* Provide an easy pathway for customers looking to up their game in the style stakes
+* To allow customers to understand the services and benefits provided by a fictional group of elitist fashion stylists
+* To give inspiration to customers who are looking to bring out the best version of theirselves
 
-Another blue button should appear to click: _Open Browser_.
+# UX - User Experience 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The project was planned in 5 stages. 
 
-A blue button should appear to click: _Make Public_,
+1st stage - Strategy Plane <br>
+2nd stage - Scope Plane <br>
+3rd stage - Structure Plane <br>
+4th stage - Skeleton Plane <br>
+5th stage - Surface Plane  <br>
 
-Another blue button should appear to click: _Open Browser_.
+# The Strategy Plane 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+## User Perspective
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+* Looking to buy services to improve their appearances
+* Expedient solution to buying clothes for time poor professionals
+* Finding the inspiration to becoming the new version of themseves
+* Making efficient use of their wardrobe for maximum gains with minimal outlay
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
-------
+## Business Perspective
+* Using the website as a starting point in obtaining customers
+* Provide a scalable platform where more services can be offered as the business develops - for example events management
+* Promoting their services to time poor professionals 
+* Selling services to people who are looking to bring out the best version of themselves
+* To provide inspirational ideas to future customers
+* To offer value in improving customer lifestyle
 
-## Release History
+# The Scope Plane
+To provide a website to bring together customers and stylists. The website consists of three pages. Each page has the following content:
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+* a stylish home page showcasing their products and sets the narrative on the stylists' background
+* a gallery page to provide inspirational ideas to customers 
+* a contact page to initiate the come togetherness between customers and stylists
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+Content must be accessible through a range of technolgy devices such as mobile phones, tablets, laptops and desktops. Since customers use different devices to access the internet.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+# Structure Plane
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+The website consists of a home page, gallery page and a contact us page. Each page has a navigation bar in the header, a content section covering the mid part of the page and footer section containing useful information and social media links.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+## The navigation header
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+<img src="assets/images/readme-navigation-bar.jpg" alt="navigation header">
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+The navigation header, as seen as above, appears consistently on the top of the three main content pages. The company's logo is featured on the left hand side of the navigation bar while there are navigation links for other pages on the right hand side. 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+This familiar menu bar adds consistency to the design language and helps the user to navigate across the three pages with comfort.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
-------
+<img src="assets/images/readme-navigation-bar-mobile.jpg" alt="mobile navigation header">
 
-## FAQ about the uptime script
 
-**Why have you added this script?**
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+Similarly, the mobile header bar offers the same functionality and purpose as its desktop brethren but in a smaller form factor. The hamburger icon neatly displays and retracts the navigation links.
 
-**How will this affect me?**
+## Content section
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+<img src="assets/images/readmeheroimagecontent.jpg" alt="hero image content">
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
 
-**So….?**
+Here we see the content page featuring a hero image  with a carrot on a stick special offer and a call for action button to book a free consultation. 
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+<img src="assets/images/readmobileimagecontent.jpg" alt="mobile content without hero image content">
 
-**Can I opt out?**
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+The mobile content does not feature the hero image but still displays the same carrot on a stick offer with a call for action button to book a free consulation button. 
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+This allows a mobile device to have a clutter free visual appearance.
 
-**Anything more?**
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+## Footer section
 
----
+<img src="assets/images/readmedesktopfooter.jpg" alt="large screen footer image">
 
-Happy coding!
+<img src="assets/images/readmemobilefooter.jpg" alt="mobile footer image">
+
+The above two images show the footer for the larger screen and mobile phone screen. There is no loss in functionality or feature between the two types of footer. 
+
+## Services
+
+
+<img src="assets/images/readmecontentservices.jpg" alt="desktop services content">
+
+
+<img src="assets/images/readmemobilecontentservices.jpg" alt="mobile services content">
+
+Again, both images display services content in various combinations to take full advantage of screen width at its disposal.
+
+## Gallery Page
+
+<img src="assets/images/readmegallerypage.jpg" alt="gallery content">
+
+The gallery page inspires customers to up their style game and encourage to buy services on offer. Images were sourced from Unsplash
+
+## Contact Us Page
+
+<img src="assets/images/readmecontactpage.jpg" alt="image of contact us page">
+
+This simple contact us page provides the customer a facility to contact the stylists. The call for action buttons also links to this page from the hero image text. Thereby the contact us page is a very important structure of the website and starts the journey for customers toward services.
+
+# The Skeleton Plane
+
+My main aim was to produce an effective layout for all device types.
+
+Here are my sketches for the website pages including desktop and mobile devices.
+
+[Wireframe page 1](assets/images/readmesketch1.jpg)
+
+[Wireframe page 2](assets/images/readmesketch2.jpg)
+
+[Wireframe page 3](assets/images/readmesketch3.jpg)
+
+I feel I have mostly achieved in a building a website according to those website.
+
+# Surface Plane
+
+Colours were sourced from Coolers.co and I used Google to find the hex code for blue ink. Usage of colours was sparse and consistent in order to produce an understated corporate style website. Hover pseudo classes were used in conjunction with colour effects on links and buttons.
+
+Fonts were sourced from Google fonts. Bubble gum Sans provided a nice text for company logo. While Montserrat is a popular font for websites.
+
+Font Awesome provided style fonts such as social media logos as well as visual clues for services within the home content page.
+
+# Technologies utilised
+
+HTML5 for markup <br>
+CSS3 for style <br>
+Google Fonts for fonts <br>
+Github to keep the file <br>
+Gitpod for version control <br>
+Coolers.co to build a colour palette for the site <br>
+Font Awesome for icons <br>
+Unsplash for all the images on the site <br>
+
+# Debugging the code for the website
+
+There were a number of issues which slowed the development of the website.
+
+1. Div and section heights had caused formatting issues such as content flowing from one section to another unexpectedly. My mentor had advised on a fix which solved the issue by removing the set height to auto in each section.
+
+2. This Bootstrap code <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"> caused the content on the home page to spill out of the content container. Removing this link resulted in the content reverting to its original state.
+
+3. A mismatch of section widths caused the content to flow horizontally. This was resolved by ensuring the content widths were harmonised.
+
+4. Implementing the burger menu turned out to be difficult. This was because the toggle code in the media query required to have the same code in the parent tag. This was tested commenting out the code in one section and applying the same code in another.
+
+5. The adblocker in my browser caused the setting up of an image folder to inline in Gitpod. This resulted the folder to have an unexpected file path. The solution was to delete the folder and deactivate the adblocker before setting up a new folder.
+
+6. Github refused to give an active URL for my website after deployment. The issue was resolved after contacting tutor support.
+
+7. The screen reader refused to read out the alt text for the photos in the gallery section. The issue is unresolved but student support indicated that there isn't a penalty for the project as long as the photos have alt text added.
+
+# User Stories Testing
+
+1. The website was tested on Chrome, Firefox and Brave browsers. No adverse affects were found. I was unable to use Safari as I'm using a Windows 10 machine.
+
+2. Responsiveness were tested using all devices and screen widths. No adverse effects were seen apart from the Galaxy Fold which had a very unusual narrow screen width.
+
+3. The website is easy to navigate and the hamburger worked effectively.
+
+4
