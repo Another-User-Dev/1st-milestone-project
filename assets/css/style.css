@@ -1,5 +1,3 @@
-
-
 @import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Montserrat:wght@300;400;700&display=swap');
 
 * {
@@ -16,8 +14,7 @@
     display: block;
 
 }
-.innerheader {
-    
+.innerheader {    
     max-width: 1920px;
     height: 100px;
     background-color: #16264c;
@@ -60,28 +57,6 @@
     transition: 0.5s;
 }
 
-/*...........mobile menu............
-
-.mobile-menu-section {
-    max-width: auto;
-    width: 100%;
-    background-color: cornflowerblue;
-    display: none;
-}
-
-.mobile-menu li {
-    border: 1px solid blue;
-    margin-right: 20px;
-}
-
-.mobile-menu ul {
-    display: flex;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 20px;  
-
-} */
-
 /*------hover mouse animation--------*/
 
 .menu a:hover {
@@ -94,7 +69,7 @@
     background-color: black;
 }
 
-.hero-text button:hover {
+.btn-cta:hover {
     color: pink;
     background-color: black;
 }
@@ -108,8 +83,6 @@
     color: pink;
     background-color: black;
 }
-
-
 
 /*...............styling for Hamburger menu..........*/
 
@@ -154,12 +127,16 @@ label[for="toggle"] {
     font-weight: 100;
 }
 
-.hero-text button {
+.btn-cta {
+    appearance: button;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    text-decoration: none;
     padding: 7px;
     border-radius: 4px;
     font-family: 'Montserrat', sans-serif;
     color: white;
-    background: grey;
+    background: #16264c;
     text-transform: lowercase;
     cursor: pointer;
     transition: 0.5s;
@@ -172,8 +149,7 @@ label[for="toggle"] {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-image.jpg") ;
     animation-name: hero-zoom;
     animation-duration: 5s;
-    animation-fill-mode: forwards;
-    
+    animation-fill-mode: forwards;    
 }
 
 .hero-outer {
@@ -203,7 +179,6 @@ to {
     font-size: 100%;
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
-
 }
 
 .hero-text-mobile {
@@ -235,7 +210,7 @@ to {
     border-radius: 4px;
     font-family: 'Montserrat', sans-serif;
     color: white;
-    background: grey;
+    background: #16264c;
     text-transform: lowercase;
     cursor: pointer;
     transition: 0.5s;
@@ -244,16 +219,13 @@ to {
 /*......................style content page............*/
 
 .style-section-page {
-    max-width: auto;
     width: 100%;
     background-color: #bde0fe;
     display: block;
-    height: 100%;
-    
+    height: 100%;    
 }
 
 .style-div-page {
-
     width: 100%;
     max-width: 1200px;
     height: 100%;
@@ -292,8 +264,7 @@ to {
     color: #16264c
 }
 
-.box li { 
-    list-style-type: none;
+.box p { 
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -306,7 +277,6 @@ to {
 }
 
 .footer-container {
-
     width: 100%;
     max-width: 1200px;
     height: auto;
@@ -341,8 +311,7 @@ to {
     text-align: center;
 }
 
-.social-networks li {
-    display: inline;
+.social-networks p {
     letter-spacing: 8px;
 }
 
@@ -361,10 +330,6 @@ to {
 
 .hero-outer {
     display: none;
-    }
-
-.style-div-page {
-    max-width: auto;
     }
 
 .logo a {
@@ -386,7 +351,6 @@ label[for="toggle"] {
   } 
 
   .mobile-menu-section {
-    max-width: auto;
     width: 100%;
     background-color: cornflowerblue;
     display: none;
@@ -402,21 +366,17 @@ label[for="toggle"] {
     text-align: center;
     text-transform: uppercase;
     font-size: 16px;  
-
 } 
 
 .mobile-menu-section {
-    max-width: auto;
     width: 100%;
     background-color: cornflowerblue;
     display: none;
 }
   
 
-#toggle:checked ~ .mobile-menu-section {        
-        
+#toggle:checked ~ .mobile-menu-section {    
     display: block;
-
   }
 
 .box h1 {
@@ -427,8 +387,7 @@ label[for="toggle"] {
     color: #16264c
 }
 
-  .footer-container {
-
+.footer-container {
     width: 100%;
     height: auto;
     background-color: #98c1d9;
@@ -512,16 +471,14 @@ label[for="toggle"] {
     border-radius: 5px;
     margin-bottom: 20px;
     text-align: center;
-    padding: 15px;
-    
+    padding: 15px;    
 }
 
 .form-container {
     max-width: 1200px;
     height: auto;
     margin: 0 auto;
-    display: block;
-    
+    display: block;    
 }
 
 .form-container form {
@@ -544,7 +501,6 @@ label[for="toggle"] {
     text-transform: uppercase;
     text-align: center;
     border-style: none;
-
 }
 
 #name {
@@ -555,7 +511,6 @@ label[for="toggle"] {
 }
 
 #email-address {
-
     width: 65%;
     border: solid 1px #16264c;
     border-radius: 5px;
@@ -563,12 +518,10 @@ label[for="toggle"] {
 }
 
 #contact-number {
-
     width: 65%;
     border: solid 1px #16264c;
     border-radius: 5px;
     padding: 10px;
-
 }
 
 #query {
@@ -579,12 +532,11 @@ label[for="toggle"] {
     padding: 10px;
 }
 
-
 .form-container input[type=submit] {
-    color:#16264c;
+    color: white;
     font-size: 1.1rem;
     font-family: 'Montserrat', sans-serif;
-    background: grey;
+    background: #16264c;
     border-radius: 4px;
     padding: 5px;
     transition: 0.5s ease-in-out;
