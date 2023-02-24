@@ -107,7 +107,7 @@ Again, both images display services content in various combinations to take full
 
 <img src="assets/r-images/readmegallerypage.jpg" alt="gallery content">
 
-The gallery page inspires customers to up their style game and encourage to buy services on offer. Images were sourced from Unsplash
+The gallery page inspires customers to up their style game and encourage to buy services on offer. Images were sourced from Unsplash.
 
 ## Contact Us Page
 
@@ -184,55 +184,55 @@ Also,
 
 The following Home page was tested for their links:
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.
-[CTA button](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.
-[YouTube](https://www.youtube.com/) - opens another page with YouTube
-[Facebook](https://www.facebook.com/) - opens another page with Facebook
-[Reddit](https://www.reddit.com/) - opens another page with Reddit
-[Twitter](https://www.twitter.com/) - opens another page with Twitter
+[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
+[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
+[CTA button](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
+[YouTube](https://www.youtube.com/) - opens another page with YouTube.<br>
+[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
+[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
+[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
 
 ## Gallery page links
 
 The following Gallery page was tested for their links:
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.
-[YouTube](https://www.youtube.com/) - opens another page with YouTube
-[Facebook](https://www.facebook.com/) - opens another page with Facebook
-[Reddit](https://www.reddit.com/) - opens another page with Reddit
-[Twitter](https://www.twitter.com/) - opens another page with Twitter
+[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
+[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
+[YouTube](https://www.youtube.com/) - opens another page with YouTube.<br>
+[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
+[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
+[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
 
 ## Contact page links
 
 The following Contact page was tested for their links:
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.
-[YouTube](https://www.youtube.com/) - opens another page with YouTube
-[Facebook](https://www.facebook.com/) - opens another page with Facebook
-[Reddit](https://www.reddit.com/) - opens another page with Reddit
-[Twitter](https://www.twitter.com/) - opens another page with Twitter
+[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
+[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
+[YouTube](https://www.youtube.com/) - opens another page with YouTube<br>
+[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
+[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
+[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
 
 ## Mobile Home page links
 
 The following Home page was tested for their links:
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.
-[CTA button](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.
-[YouTube](https://www.youtube.com/) - opens another page with YouTube
-[Facebook](https://www.facebook.com/) - opens another page with Facebook
-[Reddit](https://www.reddit.com/) - opens another page with Reddit
-[Twitter](https://www.twitter.com/) - opens another page with Twitter
+[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
+[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
+[CTA button](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
+[YouTube](https://www.youtube.com/) - opens another page with YouTube.<br>
+[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
+[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
+[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
 
 The Hamburger bar worked as expected during the testing of the mobile version of the website. The links above are evidence of a working Hamburger navigation. 
 
@@ -240,29 +240,29 @@ The Hamburger bar worked as expected during the testing of the mobile version of
 
 The following Gallery page was tested for their links:
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.
-[YouTube](https://www.youtube.com/) - opens another page with YouTube
-[Facebook](https://www.facebook.com/) - opens another page with Facebook
-[Reddit](https://www.reddit.com/) - opens another page with Reddit
-[Twitter](https://www.twitter.com/) - opens another page with Twitter
+[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
+[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
+[YouTube](https://www.youtube.com/) - opens another page with YouTube.<br>
+[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
+[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
+[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
 
-The Hamburger bar worked as expected during the testing of the mobile version of the website. The links above are evidence of a working Hamburger navigation. 
+The Hamburger bar worked as expected during the testing of the mobile version of the website. The links above are evidence of a working Hamburger navigation.<br>
 
 ## Mobile Contact page links
 
 The following Gallery page was tested for their links:
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.
-[YouTube](https://www.youtube.com/) - opens another page with YouTube
-[Facebook](https://www.facebook.com/) - opens another page with Facebook
-[Reddit](https://www.reddit.com/) - opens another page with Reddit
-[Twitter](https://www.twitter.com/) - opens another page with Twitter
+[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
+[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
+[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
+[YouTube](https://www.youtube.com/) - opens another page with YouTube.<br>
+[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
+[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
+[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
 
 The Hamburger bar worked as expected during the testing of the mobile version of the website. The links above are evidence of an Hamburger navigation working as intended. 
 
@@ -274,7 +274,7 @@ The submit button functioned as normal.
 
 Limitations of testing: unable to check if data were received by the backend.
 
-## Automated testing
+# Automated testing
 
 <br>
 
@@ -324,22 +324,87 @@ Limitations of testing: unable to check if data were received by the backend.
 
 <br>
 
-<img src="assets/r-images/lighthouse-mobile-contact.jpg" alt="Contact page performance">
+<img src="assets/r-images/lighthouse-mobile-contact.jpg" alt="Contact page lighthouse performance">
 <br>
 <hr>
-<br>
 
-# 3. W3c Jigsaw Invalidator tool
+# 3. W3c Jigsaw Validator tool
 <br>
 
 ## Index page
 <br>
 
-<img src="assets/r-images/jigsaw-validator-index.jpg" >
-
-
+<img src="assets/r-images2/jigsaw-index.jpg" alt="Index page Jigsaw validation">
 
 <br>
+
+## Gallery page
+<br>
+
+<img src="assets/r-images2/jigsaw-gallery.jpg" alt="gallery page Jigsaw validation">
+
+<br>
+
+## Contact page
+<br>
+
+<img src="assets/r-images2/jigsaw-contact.jpg" alt="contact page Jigsaw validation">
+<hr>
+<br>
+
+#  W3c Jigsaw Validator tool<br>
+
+## Index page<br><br>
+
+<img src="assets/r-images2/w3cvalidatorindex.jpg" alt="Index page W3C validation"> <br><br><hr>
+
+
+## Gallery page<br><br>
+
+
+<img src="assets/r-images2/w3cvalidatorgallery.jpg" alt="Gallery page W3C validation"><br><hr>
+
+
+## Contact page<br><br>
+
+
+<img src="assets/r-images2/w3cvalidatorcontact.jpg" alt="Contact page W3C validation"><br><hr>
+
+# Summary of automated testing<br>
+
+The automated testing screenshots above shows a clean bill of health in all of their metrics. The Lighthouse's accessibility scores for the gallery and contact pages can be further improved. One way is to use the ink blue colour for the title at the expense of visual design. With more time, one could explore the use of contrasting the light blue through CSS or Photoshop editing.
+<br>
+
+
+# Credits
+
+Hannah Morgan: hero image link https://unsplash.com/photos/ycVFts5Ma4s
+
+Olga Zabegina: image https://unsplash.com/photos/A3MleA0jtoE
+
+Laura Chouette: image https://unsplash.com/photos/CjB-8NY5at8
+
+Laura Chouette: image https://unsplash.com/photos/QzekrIW57-4
+
+Jacob Blakenship: image https://unsplash.com/photos/lfJil4DrWRU
+
+Gregory Hayes image: https://unsplash.com/photos/h5cd51KXmRQ
+
+Bejamin Rascoe image: https://unsplash.com/photos/ItqFmSxKnIg
+
+Rafaella Mendes Diniz: image https://unsplash.com/photos/4lFzZTnaIcQ
+
+Ali Morshedlou image: https://unsplash.com/photos/WMD64tMfc4k
+
+Madhi Bafande image: https://unsplash.com/photos/6f5KtX2GGv4
+
+
+
+
+
+
+
+
 
 
 
