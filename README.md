@@ -55,10 +55,7 @@ To provide a website to bring together customers and stylists. The website consi
 
 Content must be accessible through a range of technology devices such as mobile phones, tablets, laptops and desktops. Since customers use different devices to access the internet.
 
-# Structure Plane
-
-The website consists of a home page, gallery page and a contact us page. Each page has a navigation bar in the header, a content section covering the mid part of the page and footer section containing useful information and social media links.
-
+The features of the website: 
 
 ## The navigation header
 
@@ -115,6 +112,10 @@ The gallery page inspires customers to up their style game and encourage to buy 
 
 This simple contact us page provides the customer a facility to contact the stylists. The call for action buttons also links to this page from the hero image text. Thereby the contact us page is a very important structure of the website and starts the journey for customers toward services.
 
+# Structure Plane
+
+The website consists of a home page, gallery page and a contact us page. Each page has a navigation bar in the header, a content section covering the mid part of the page and footer section containing useful information and social media links.
+
 # The Skeleton Plane
 
 My main aim was to produce an effective layout for all device types.
@@ -147,6 +148,7 @@ Gitpod for version control <br>
 Coolers.co to build a colour palette for the site <br>
 Font Awesome for icons <br>
 Unsplash for all the images on the site <br>
+https://www.iloveimg.com/ to compress file size for images <br>
 
 # Debugging the code for the website
 
@@ -160,15 +162,13 @@ I originally planned to use Bootstrap for the main navigation and burger menu. I
 
 3. A mismatch of section widths caused the content to flow horizontally. This was resolved by ensuring the content widths were harmonised.
 
-4. Implementing the burger menu turned out to be very difficult. This was because the toggle code in the media query required to have the same code in the parent tag. This was tested commenting out the code in one section and applying the same code in another.
-
-Also, 
+4. Implementing the burger menu turned out to be very difficult. This was because the toggle code in the media query required to share the same parent tag in HTML and CSS. This was tested commenting out the code in one section and applying the same code in another.
 
 5. The adblocker in my browser caused the setting up of an image folder to inline in Gitpod. This resulted the folder to have an unexpected file path. The solution was to delete the folder and deactivate the adblocker before setting up a new folder.
 
 6. Github refused to give an active URL for my website after deployment. The issue was resolved after contacting tutor support. The issue resolved itself as soon as git push command was activated in Gitpod.
 
-7. The screen reader refused to read out the alt text for the photos in the gallery section. The issue is unresolved but student support indicated that there isn't a penalty for the project as long as the photos have alt text added.
+7. The screen reader refused to read out the alt text for the photos in the gallery section. The issue is unresolved but student support indicated that there isn't a penalty for the project as long as the photos have alt text added. The issue did not appear during testing with Firefox browser. 
 
 8. An issue appeared where the footer CSS was corrupted with a cross typo error from git. This caused formatting issues in the footer. Fortunately the problem was identified and corrected.
 
@@ -315,8 +315,6 @@ Limitations of testing: unable to check if data were received by the backend.
 <br>
 <img src="assets/r-images/lighthouse-mobile-gallery.jpg" alt="gallery page performance">
 <br>
-
-
 <hr>
 <br>
 
@@ -358,15 +356,11 @@ Limitations of testing: unable to check if data were received by the backend.
 
 <img src="assets/r-images2/w3cvalidatorindex.jpg" alt="Index page W3C validation"> <br><br><hr>
 
-
 ## Gallery page<br><br>
-
 
 <img src="assets/r-images2/w3cvalidatorgallery.jpg" alt="Gallery page W3C validation"><br><hr>
 
-
 ## Contact page<br><br>
-
 
 <img src="assets/r-images2/w3cvalidatorcontact.jpg" alt="Contact page W3C validation"><br><hr>
 
@@ -375,6 +369,13 @@ Limitations of testing: unable to check if data were received by the backend.
 The automated testing screenshots above shows a clean bill of health in all of their metrics. The Lighthouse's accessibility scores for the gallery and contact pages can be further improved. One way is to use the ink blue colour for the title at the expense of visual design. With more time, one could explore the use of contrasting the light blue through CSS or Photoshop editing.
 <br>
 
+# End User Assessment
+<br>
+The website has achieved many of its initial aims:
+
+* almost mimic its original wireframing design
+* easy to navigate
+* clean design
 
 # Credits
 
@@ -397,6 +398,24 @@ Rafaella Mendes Diniz: image https://unsplash.com/photos/4lFzZTnaIcQ
 Ali Morshedlou image: https://unsplash.com/photos/WMD64tMfc4k
 
 Madhi Bafande image: https://unsplash.com/photos/6f5KtX2GGv4
+<br>
+Hamburger toggle code from Caler Edwards [YouTube](https://www.youtube.com/watch?v=xMTs8tAapnQ)
+
+Gallery styling and html structure came from [YouTube](https://www.youtube.com/watch?v=RuJyYiRttpI)
+
+Thanks to:
+
+Spencer Barriball who suggested the use of height: auto to resolve spilling of content into other sections & slight amendments to the contact form.
+
+Chris Quinn, who suggested making slight alterations to contact form, advice on how to resolve the 20 code violations identified from the W3C validation checker.
+
+Oisin from Tutor Support, Code Institute, who helped resolved the live website deployment on Github.
+
+
+
+
+
+
 
 
 

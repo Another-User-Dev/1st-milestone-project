@@ -116,7 +116,6 @@ label[for="toggle"] {
     font-size: 120%;
   }
 
-
 .hero-text h1 {
     text-transform: uppercase;
     font-weight: 200;
@@ -374,7 +373,6 @@ label[for="toggle"] {
     display: none;
 }
   
-
 #toggle:checked ~ .mobile-menu-section {    
     display: block;
   }
@@ -428,6 +426,7 @@ label[for="toggle"] {
     max-width: 1200px;
     margin: 20px auto;
 }
+/*.................gallery-container .gallery-title .image-container classes adopted from YouTube channel*/
 
 .gallery-container .gallery-title {
     font-size: 1.5rem;
