@@ -75,10 +75,10 @@
     background-color: black;
 }
 
-#toggle label:hover {
-    color: red;
+label[for="toggle"]:hover {
+    color: pink;
     background-color: black;
-    }
+}
 
 .hero-text-mobile button:hover {
     color: pink;
@@ -93,12 +93,9 @@
 /*...............styling for Hamburger menu..........*/
 
 label[for="toggle"] {
-    margin-right: 40px;
-    margin-top: -100px;
+    margin-right: 20px;
+    margin-top: -80px;
     color: white;
-    font-size: 30px;
-    line-height: 75px;
-    width: 30px;
     display: none;
     float: right;
     transition: 0.5s;
@@ -180,7 +177,7 @@ to {
     height: auto;
     text-align: center;
     width: 100%;
-    font-size: 100%;
+    font-size: 1rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
 }
@@ -346,9 +343,7 @@ to {
 }
 
 label[for="toggle"] {
-    font-size: 20px;
-    top: 75px;
-    margin-right: 5px;
+    font-size: 1.25rem;
     display: block;
     cursor: pointer;
   }
@@ -366,14 +361,14 @@ label[for="toggle"] {
 
 .mobile-menu li {
     border: none;
-    margin-right: 20px;
+    margin-right: 1.25rem;
 }
 
 .mobile-menu ul {
     display: flex;
     text-align: center;
     text-transform: uppercase;
-    font-size: 16px;  
+    font-size: 1rem;  
 } 
 
 .mobile-menu-section {
