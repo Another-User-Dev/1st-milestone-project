@@ -280,7 +280,7 @@ to {
 .footer-end {
     width: 100%;
     background-color: #98c1d9;
-    height: auto;
+    bottom: 0%;
 }
 
 .footer-container {
@@ -333,8 +333,12 @@ to {
 
 /*...........styling for thank you page............*/
 
+.content-wrapper {
+    min-height: calc(100vh - 338px);
+}
+
 .thank-you-section {
-    max-width: 1200px;
+    max-width: 1200px;    
     margin: 20px auto;
     display: block;
 }
