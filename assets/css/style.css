@@ -331,6 +331,43 @@ to {
     text-align: center;
 }
 
+/*...........styling for thank you page............*/
+
+.thank-you-section {
+    max-width: 1200px;
+    margin: 20px auto;
+    display: block;
+}
+
+.thank-you-title {
+    font-size: 1.5rem;
+    background-color: #98c1d9;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 200;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 100px;
+    text-align: center;
+    padding: 15px; 
+}
+
+.thank-you-container {
+    width: 30%;
+    height: auto;
+    margin: 0 auto;
+    display: block; 
+    margin-bottom: 100px;
+}
+
+.thank-you-container p {
+    color: #16264c;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
 /*.........media query for smaller screen..........*/
 
 @media screen and (max-width: 672px) {
@@ -415,16 +452,13 @@ label[for="toggle"] {
 
 .thank-you-section {
     width: 100%;
+    display: block;
 }
 
 .thank-you-container {
-    width: inherit;
+    width: 90%;
+    display: block;
 }
-
-.thank-you-container p {
-    font-size: 1rem;
-}
-
 }
 
 /*.........media query for larger screen..........*/
@@ -573,39 +607,3 @@ label[for="toggle"] {
     cursor: pointer;
 }
 
-/*...........styling for thank you page............*/
-
-.thank-you-section {
-    max-width: 1200px;
-    margin: 20px auto;
-    display: block;
-}
-
-.thank-you-title {
-    font-size: 1.5rem;
-    background-color: #98c1d9;
-    font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
-    font-weight: 200;
-    color: white;
-    border-radius: 5px;
-    margin-bottom: 100px;
-    text-align: center;
-    padding: 15px; 
-}
-
-.thank-you-container {
-    width: 30%;
-    height: auto;
-    margin: 0 auto;
-    display: block; 
-    margin-bottom: 100px;
-}
-
-.thank-you-container p {
-    color: #16264c;
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 1.5rem;
-}
