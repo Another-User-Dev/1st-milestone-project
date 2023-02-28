@@ -225,6 +225,7 @@ to {
 
 .style-section-page {
     width: 100%;
+    min-height: calc(100vh - 938px);
     background-color: #bde0fe;
     display: block;
     height: 100%;    
@@ -280,7 +281,6 @@ to {
 .footer-end {
     width: 100%;
     background-color: #98c1d9;
-    bottom: 0%;
 }
 
 .footer-container {
@@ -482,6 +482,7 @@ label[for="toggle"] {
 
 .gallery-container {
     max-width: 1200px;
+    min-height: calc(100vh - 338px);
     margin: 20px auto;
 }
 /*.................gallery-container .gallery-title .image-container classes adopted from YouTube channel*/
@@ -514,6 +515,7 @@ label[for="toggle"] {
 
 .form-container-section {
     max-width: 1200px;
+    min-height: calc(100vh - 338px);
     margin: 20px auto;
     display: block;
 }
