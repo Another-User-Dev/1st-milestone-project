@@ -90,6 +90,10 @@ label[for="toggle"]:hover {
     background-color: black;
 }
 
+.image-container img:hover {
+    transform: scale(1.2);
+}
+
 /*...............styling for Hamburger menu..........*/
 
 label[for="toggle"] {

@@ -166,11 +166,25 @@ I originally planned to use Bootstrap for the main navigation and burger menu. I
 
 5. The adblocker in my browser caused the setting up of an image folder to inline in Gitpod. This resulted the folder to have an unexpected file path. The solution was to delete the folder and deactivate the adblocker before setting up a new folder.
 
-6. Github refused to give an active URL for my website after deployment. The issue was resolved after contacting tutor support. The issue resolved itself as soon as git push command was activated in Gitpod.
+6. Github refused to give an active URL for my website after deployment. The issue was resolved after contacting tutor support. The issue resolved itself as soon as I enetered a git push command in Gitpod.
 
 7. The screen reader refused to read out the alt text for the photos in the gallery section. The issue is unresolved but student support indicated that there isn't a penalty for the project as long as the photos have alt text added. The issue did not appear during testing with Firefox browser. 
 
 8. An issue appeared where the footer CSS was corrupted with a cross typo error from git. This caused formatting issues in the footer. Fortunately the problem was identified and corrected.
+
+9. Hamburger icon had an extended background which almost reached the top of the header. Chrome tools was used to investigate the anomaly. Each part of the code in the header was inspected and the styling CSS was displayed under styles. The issue was resolved after deleting the line height and adjusting the margin-top to the CSS code for desktop and mobile. The newly styled Hamburger menu was saved under the commit message "Add styling to Hamburger menu". 
+
+10. Low contrast ratio for white text and cornflower blue background resulted in lowering the Lighthouse accessibility score by 4 to 5% on Lighthouse the gallery and contact page. There was a conflict between design and accessibility. I liked the white text against the blue background which was more consistent with the design of the website. I also wanted the website to have a 100 per cent compliance with accessibility.
+<br>
+Further research on accessibility colours led me to this website [UXmovement.com](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/). After reading this article, changing the colours to become more accessibility compliant meant there was no guarantee it would improve accessibility for users. In some cases it may worsen for some. 
+<br>
+Upon reflection, I've decided to keep the colours as they are now given the high accessibility Lighthouse scores and the title header not having a significant impact on understanding the content. It is visually obvious the difference between a contact and a gallery page. 
+
+
+
+
+
+
 
 # Manual testing
 
