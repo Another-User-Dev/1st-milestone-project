@@ -8,6 +8,8 @@
     list-style: none;
 }
 
+/*.........styling for the navigation header.........*/
+
 .outer-header {
     width: 100%;
     background-color: #16264c;
@@ -96,6 +98,8 @@ label[for="toggle"]:hover {
 
 /*...............styling for Hamburger menu..........*/
 
+/* ..........some styling for label taken from Caler Edwards YouTube channel ln 103 to 114.........*/
+
 label[for="toggle"] {
     margin-right: 20px;
     margin-top: -80px;
@@ -109,7 +113,7 @@ label[for="toggle"] {
     display: none;
 }
 
-/* .......hero image........ */
+/* .......hero image styling........ */
 
 .hero-text {
     text-align: center;
@@ -221,7 +225,9 @@ to {
     transition: 0.5s;
 }
 
-/*......................style content page............*/
+/*......................style content for Index page............*/
+
+/*.......min-height: calc(100vh - 938px) - to keep footer to screen botton - CSS tricks tip...*/
 
 .style-section-page {
     width: 100%;
@@ -333,6 +339,10 @@ to {
 
 /*...........styling for thank you page............*/
 
+/*.....min-height: calc(100vh - 338px) - CSS tricks tip to keep footer to screen botton......*/
+
+/*....  .thank-you-section .thank-you-title - some of code lifted from Mr Web Designer YouTube channel  ...*/
+
 .content-wrapper {
     min-height: calc(100vh - 338px);
 }
@@ -386,6 +396,8 @@ to {
         font-size: 150%;
         margin-left: 5px;
 }
+
+/*.........taken from Caler Edwards YouTube channel ln 402 to 405 & 437 to 438 ...*/
 
 label[for="toggle"] {
     font-size: 1.25rem;
@@ -512,6 +524,9 @@ label[for="toggle"] {
 }
 
 /*..........styling forms.........*/
+
+/*.....min-height: calc(100vh - 338px) - CSS tricks tip to keep footer to screen botton......*/
+/*.... Code lifted from Mr Web Designer YouTube channel  ln 531 to 548...*/
 
 .form-container-section {
     max-width: 1200px;

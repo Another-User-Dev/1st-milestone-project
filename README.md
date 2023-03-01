@@ -14,62 +14,6 @@ This is my first website for the milestone one project. A requirement by Code In
 
 <hr>
 
-- [PROJECT MILESTONE ONE - STYLE CONTROL WEBSITE](#project-milestone-one---style-control-website)
-  * [Website:](#website-)
-    + [User Perspective](#user-perspective)
-    + [Business Perspective](#business-perspective)
-  * [The features of the website:](#the-features-of-the-website-)
-    + [Structure of the website](#structure-of-the-website)
-    + [The navigation header](#the-navigation-header)
-    + [Content section](#content-section)
-    + [Footer section](#footer-section)
-    + [Services](#services)
-    + [Gallery Page](#gallery-page)
-    + [Contact Us Page](#contact-us-page)
-    + [Structure of the website](#structure-of-the-website-1)
-      - [Thank you page](#thank-you-page)
-    + [Wireframes of website](#wireframes-of-website)
-    + [Design considerations](#design-considerations)
-    + [Technologies utilised](#technologies-utilised)
-  * [Debugging the code for the website](#debugging-the-code-for-the-website)
-    + [Manual testing](#manual-testing)
-    + [Home page links](#home-page-links)
-    + [Gallery page links](#gallery-page-links)
-    + [Contact page links](#contact-page-links)
-    + [The thank you page](#the-thank-you-page)
-    + [Mobile Home page links](#mobile-home-page-links)
-    + [Mobile Gallery page links](#mobile-gallery-page-links)
-    + [Mobile Contact page links](#mobile-contact-page-links)
-    + [Mobile thank you page](#mobile-thank-you-page)
-    + [Contact forms](#contact-forms)
-    + [Automated testing](#automated-testing)
-  * [1. Lighthouse - larger screens](#1-lighthouse---larger-screens)
-  * [Index page performance](#index-page-performance)
-    + [Gallery page performance](#gallery-page-performance)
-    + [Contact page performance](#contact-page-performance)
-    + [Thank you page performance](#thank-you-page-performance)
-- [2. Lighthouse - mobile screens](#2-lighthouse---mobile-screens)
-  * [Index page performance](#index-page-performance-1)
-  * [Gallery page performance](#gallery-page-performance-1)
-  * [Contact page performance](#contact-page-performance-1)
-    + [Thank you page performance](#thank-you-page-performance-1)
-  * [3. W3c Jigsaw Validator tool](#3-w3c-jigsaw-validator-tool)
-    + [Index page](#index-page)
-    + [Gallery page](#gallery-page)
-    + [Contact page](#contact-page)
-    + [Thank you page](#thank-you-page-1)
-  * [W3c Jigsaw Validator tool<br>](#w3c-jigsaw-validator-tool-br-)
-    + [Index page<br><br>](#index-page-br--br-)
-    + [Gallery page<br><br>](#gallery-page-br--br-)
-    + [Contact page<br><br>](#contact-page-br--br-)
-    + [Contact page<br><br>](#contact-page-br--br--1)
-    + [Summary of automated testing<br>](#summary-of-automated-testing-br-)
-- [End User Assessment](#end-user-assessment)
-  * [Credits](#credits)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 ### User Perspective
 <br>
 
@@ -94,13 +38,12 @@ This is my first website for the milestone one project. A requirement by Code In
 * Enable customers to surf the website using a variety of devices such desktops, laptops, tablets and mobile phones
 <br>
 
-
 ## The features of the website: 
 <br>
 
 ### Structure of the website
 
-The website consists of a home page, gallery page and a contact us page. Each page has a navigation bar in the header, a content section covering the mid part of the page and footer section containing useful information and social media links.
+The website consists of a home page, gallery page and a contact us page. Each page has a navigation bar in the header, a content section covering the mid part of the page and footer section containing useful information and social media links. 
 
 ### The navigation header
 <br>
@@ -155,7 +98,6 @@ The above two images show the footer for the larger screen and mobile phone scre
 
 <br>
 
-
 ### Services
 
 <br>
@@ -179,10 +121,12 @@ Again, both images display services content in various combinations to take full
 <img src="assets/r-images/readmegallerypage.jpg" alt="gallery content">
 <br>
 
-The gallery page gives an eye pleasing visual images. The photos were sourced from Unsplash.com and were chosen for their timeless style and perfect fit of clothes. This ties in with the role of the stylist. Whose main aim is to advise on well fitting clothes and timeless styling advise.
+The gallery page gives an eye pleasing visual images. The photos were sourced from Unsplash.com and were chosen for their timeless style and perfect fit of clothes. This ties in with the role of the stylist. Whose main aim is to advise on well fitting clothes and timeless styling advice.
 <br>
 
 The mobile phone gallery is displayed in a vertical order.
+
+Both gallery formats allow the image to expand while the mouse hovers over it.
 
 <br>
 
@@ -201,7 +145,7 @@ This simple contact us page provides the customer a facility to contact the styl
 The website consists of a home page, gallery page and a contact us page. Each page has a navigation bar in the header, a content section covering the mid part of the page and footer section containing useful information and social media links.
 <br>
 
-#### Thank you page
+### Thank you page
 <br>
 <img src="assets/r-images/thankyou-page.jpg" alt="thank you page">
 
@@ -216,15 +160,23 @@ My main aim was to produce an effective layout for all device types.
 <br>
 Here are my sketches for the website pages including desktop and mobile devices.
 <br>
-[Wireframe page 1](assets/r-images/readmesketch1.jpg)
+
+![Wireframe page 1](assets/r-images/readmesketch1.jpg)
 <br>
-[Wireframe page 2](assets/r-images/readmesketch2.jpg)
+
+![Wireframe page 2](assets/r-images/readmesketch2.jpg)
 <br>
-[Wireframe page 3](assets/r-images/readmesketch3.jpg)
+
+![Wireframe page 3](assets/r-images/readmesketch3.jpg)
 <br>
+
 I feel I have mostly achieved in a building a website according to those website. The only slight change was the gallery page for the larger screen. A different layout broke up the the monotony of uniformed square boxes.
 
 <br>
+
+### Future features
+
+* more content such as blogs, audio video materials, biographies of staff, events and news page. These contents endear the customers to the brand.
 
 ### Design considerations
 
@@ -269,19 +221,19 @@ There were a number of issues which slowed the development of the website.
 2. This Bootstrap code <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"> caused the content on the home page to spill out of the content container. Removing this link resulted in the content reverting to its original state.
 <br>
 
-3. I originally planned to use Bootstrap for the main navigation and burger menu. I realised Bootstrap was unviable due to the issues as described above. Flexbox provided the perfect opportunity to replace the Bootstrap requirement.
+3. I originally planned to use Bootstrap for the main navigation and burger menu. I realised Bootstrap was unviable due to the issues as described above. Flexbox provided the perfect opportunity to replace the Bootstrap option for navigation header.
 <br>
 
 4. A mismatch of section widths caused the content to flow horizontally. This was resolved by ensuring the content widths were harmonised by using a centred max-width page with width at 100%.
 <br>
 
-5. Implementing the burger menu turned out to be very difficult. This was because the toggle code in the media query required to share the same parent tag in HTML and CSS as other associated code. This was tested commenting out the code in one section and applying the same code in another. Ultimately, this led to having a more appreciation of HTML/CSS code.
+5. Implementing the burger menu turned out to be very difficult. This was because the toggle code in the media query required to share the same parent tag in HTML and CSS as other associated code. This was tested commenting out the code in one section and applying the same code in another. Ultimately, this led to having a more appreciation of HTML/CSS code and specificity.
 <br>
 
 6. The adblocker in my browser caused the setting up of an image folder to inline in Gitpod. This resulted the folder to have an unexpected file path. The solution was to delete the folder and deactivate the adblocker before setting up a new folder.
 <br>
 
-7. Github refused to give an active URL for my website after deployment. The issue was resolved after contacting tutor support. The issue resolved itself as soon as I enetered a git push command in Gitpod.
+7. Github refused to give an active URL for my website after deployment. The issue was resolved after contacting tutor support. The issue resolved itself as soon as I entered a git push command in Gitpod.
 <br>
 
 8. The screen reader refused to read out the alt text for the photos in the gallery section while using the Chrome browser. The issue is unresolved but student support indicated that there isn't a penalty for the project as long as the photos have alt text added. The issue did not appear during testing with Firefox browser. It seems likely there is a bug in Chrome.
@@ -307,7 +259,7 @@ Upon reflection, I've decided to keep the colours as they are now given the high
 <br>
 2. The website is easy to navigate and the hamburger menu worked effectively.
 <br>
-3. Responsiveness were tested using all devices and screen widths. No adverse effects were seen for screen widths down to Galaxy Fold. 
+3. Responsiveness were tested using all devices and screen widths. No adverse effects were seen for screen widths down to Galaxy Fold (280px wide). 
 <br>
 
 ### Home page links
@@ -385,10 +337,7 @@ Upon reflection, I've decided to keep the colours as they are now given the high
     <td class="tg-0lax">Twitter opened in new tab after click</td>
   </tr>
 </tbody>
-</table>
-
-
-  
+</table>  
 
 ### Gallery page links
 
@@ -464,7 +413,6 @@ Upon reflection, I've decided to keep the colours as they are now given the high
 </table>
 
 ### Contact page links
-
 
 <br>
 
@@ -768,7 +716,6 @@ Upon reflection, I've decided to keep the colours as they are now given the high
 
 ### Mobile Contact page links
 
-
 <br>
 
 <style type="text/css">
@@ -915,7 +862,12 @@ Upon reflection, I've decided to keep the colours as they are now given the high
 </tbody>
 </table>
 
-The Hamburger bar worked as expected during the testing of the mobile version of the website. The links above are evidence of an Hamburger navigation working as intended. 
+
+The Hamburger bar worked as expected during the testing of the mobile version of the website. The tested links above are evidence of an Hamburger navigation working as intended. 
+
+Hover animations worked as expected. Transisitioning from a ink blue background/white fonts to a black background / pink colour fonts.
+
+Chrome tool was used to test the website's responsiveness on various device from 280px width to 5000px 
 
 ### Contact forms
 
@@ -934,7 +886,7 @@ Limitations of testing: unable to check if data were received by the backend.
 ## 1. Lighthouse - larger screens
 <br>
 
-## Index page performance
+### Index page performance
 <br>
 <img src="assets/r-images/lighthouse-desktop-index.jpg" alt="Index page performance">
 
@@ -964,23 +916,23 @@ Limitations of testing: unable to check if data were received by the backend.
 <hr>
 <br>
 
-# 2. Lighthouse - mobile screens
+## 2. Lighthouse - mobile screens
 <br>
 
-## Index page performance
+### Index page performance
 <br>
 <img src="assets/r-images/lighthouse-mobile-index.jpg" alt="index page performance">
 <br>
 <hr>
 
-## Gallery page performance
+### Gallery page performance
 <br>
 <img src="assets/r-images/lighthouse-mobile-gallery.jpg" alt="gallery page performance">
 <br>
 <hr>
 <br>
 
-## Contact page performance
+### Contact page performance
 
 <br>
 
@@ -1056,11 +1008,31 @@ The website has achieved many of its initial aims:
 
 * almost mimic its original wireframing design
 * easy to navigate
-* clean design
+* clean functional design
+* call to action buttons worked as intended.
+* contact form worked as intended
+* responsiveness from 5000px down to 280px widths
 
 <br>
 
-## Deploying code
+### Deploying website in Github
+
+1) Log into Github
+2) Go to your repositories
+3) Select your required repository
+4) Click on settings
+5) Select page on the left hand menu
+6) Select branch to main, select folder to root and finally press save
+7) A link will appear within your required repository under environments after several minutes
+8) Website now live
+
+### Forking website
+
+1) Log into Github
+2) Go to your repositories
+3) Go to the required repository
+4) Click on the fork symbol to fork the code
+
  
 ### Credits
 <br>
@@ -1090,11 +1062,17 @@ Gallery styling and its html structure came from [YouTube](https://www.youtube.c
 <br>
 Thanks to:
 <br>
-Spencer Barriball who suggested the use of height: auto to resolve spilling of content into other sections & slight amendments to the contact form.
+Spencer Barriball who suggested the use of height: auto to resolve spilling of content into other sections & slight amendments to the contact form. Also mentioned the use of flexbox during the first mentor meeting
 <br>
 Chris Quinn, who suggested making slight alterations to contact form, advice on how to resolve the 20 code violations identified from the W3C validation checker.
 <br>
 Oisin from Tutor Support, Code Institute, who helped resolved the live website deployment on Github.
+<br>
+Code Institute learning materials.
+<br>
+CSS tricks - using tip to keep footer bar at the bottom of the screen.
+<br>
+Followed the Net Ninja tutorial on Flexbox from his YouTube channel.
 
 
 
