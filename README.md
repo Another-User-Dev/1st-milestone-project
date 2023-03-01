@@ -1050,7 +1050,7 @@ Limitations of testing: unable to check if data were received by the backend.
 The automated testing screenshots above shows a clean bill of health in all of their metrics. The Lighthouse's accessibility scores for the gallery and contact pages have score 94 per cent or more. The Home page has achieved 100 per cent for Lighthouse accessibility.
 <br>
 
-# End User Assessment
+### End User Assessment
 <br>
 The website has achieved many of its initial aims:
 
@@ -1058,7 +1058,11 @@ The website has achieved many of its initial aims:
 * easy to navigate
 * clean design
 
-## Credits
+<br>
+
+## Deploying
+
+### Credits
 <br>
 Hannah Morgan: hero image link https://unsplash.com/photos/ycVFts5Ma4s
 <br>
@@ -1091,6 +1095,8 @@ Spencer Barriball who suggested the use of height: auto to resolve spilling of c
 Chris Quinn, who suggested making slight alterations to contact form, advice on how to resolve the 20 code violations identified from the W3C validation checker.
 <br>
 Oisin from Tutor Support, Code Institute, who helped resolved the live website deployment on Github.
+
+
 
 
 
