@@ -253,7 +253,8 @@ Upon reflection, I've decided to keep the colours as they are now given the high
 <br>
 3. Responsiveness were tested using all devices and screen widths. No adverse effects were seen for screen widths down to Galaxy Fold. 
 <br>
-## Home page links
+
+### Home page links
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -274,58 +275,58 @@ Upon reflection, I've decided to keep the colours as they are now given the high
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href=”another-user-dev.github.io/1st-milestone-project/index.html”>Logo</a></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><</td>
+    <td class="tg-0lax">Logo</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click logo on the top left hand side</td>
+    <td class="tg-0lax">Home page opened after click</td>
   </tr>
   <tr>
-    <td class="tg-0lax">a href=”https://another-user-dev.github.io/1st-milestone-project/contact.html”>Contact</a></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Home</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click Home link on nav bar</td>
+    <td class="tg-0lax">Home page opened after click</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href=”https://another-user-dev.github.io/1st-milestone-project/gallery.html”>Gallery</a></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Gallery</td>
+    <td class="tg-0lax">To visit Gallery page on click</td>
+    <td class="tg-0lax">Click Gallery on nav bar</td>
+    <td class="tg-0lax">Gallery page opened after click</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href=”https://another-user-dev.github.io/1st-milestone-project/index.html”>Home</a></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Contact</td>
+    <td class="tg-0lax">To visit Contact page on click</td>
+    <td class="tg-0lax">Click Contact on nav bar</td>
+    <td class="tg-0lax">Contact page opened after click</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href=”https://another-user-dev.github.io/1st-milestone-project/contact.html”>CTA button</a></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">CTA button</td>
+    <td class="tg-0lax">To visit Contact page on click</td>
+    <td class="tg-0lax">Click CTA button</td>
+    <td class="tg-0lax">Contact page opened after click</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href=”https://www.youtube.com/” target=”_blank”>YouTube</a</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">YouTube</td>
+    <td class="tg-0lax">To visit YouTube page in new tab</td>
+    <td class="tg-0lax">Click YouTube icon on footer</td>
+    <td class="tg-0lax">YouTube page opened in new tab after click</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href=”https://www.facebook.com/” target=”_blank”>target=”_blank”>Facebook</a></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Facebook</td>
+    <td class="tg-0lax">To visit Facebook page in new tab</td>
+    <td class="tg-0lax">Click Facebook icon on footer</td>
+    <td class="tg-0lax">Facebook opened in new tab after click</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href=”https://www.reddit.com/” target=”_blank”> target=”_blank”>Reddit</a></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Reddit</td>
+    <td class="tg-0lax">To visit Reddit page in new tab</td>
+    <td class="tg-0lax">Click Reddit icon on footer</td>
+    <td class="tg-0lax">Reddit opened in new tab after click</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href=”https://www.twitter.com/” target=”_blank”>target=”_blank”>Twitter</a></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Twitter</td>
+    <td class="tg-0lax">To visit Twitter page in new tab</td>
+    <td class="tg-0lax">Click Twitter icon on footer</td>
+    <td class="tg-0lax">Twitter opened in new tab after click</td>
   </tr>
 </tbody>
 </table>
@@ -333,89 +334,534 @@ Upon reflection, I've decided to keep the colours as they are now given the high
 
   
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
-[CTA button](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
-[YouTube](https://www.youtube.com/) - opens another page with YouTube.<br>
-[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
-[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
-[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
+### Gallery page links
 
-## Gallery page links
+<br>
 
-The following Gallery page was tested for their links:
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Feature</th>
+    <th class="tg-0lax">Expect</th>
+    <th class="tg-0lax">Action</th>
+    <th class="tg-0lax">Result</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Logo</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click logo on the top left hand side</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Home</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click Home link on nav bar</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gallery</td>
+    <td class="tg-0lax">To visit Gallery page on click</td>
+    <td class="tg-0lax">Click Gallery on nav bar</td>
+    <td class="tg-0lax">Gallery page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Contact</td>
+    <td class="tg-0lax">To visit Contact page on click</td>
+    <td class="tg-0lax">Click Contact on nav bar</td>
+    <td class="tg-0lax">Contact page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">YouTube</td>
+    <td class="tg-0lax">To visit YouTube page in new tab</td>
+    <td class="tg-0lax">Click YouTube icon on footer</td>
+    <td class="tg-0lax">YouTube page opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Facebook</td>
+    <td class="tg-0lax">To visit Facebook page in new tab</td>
+    <td class="tg-0lax">Click Facebook icon on footer</td>
+    <td class="tg-0lax">Facebook opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reddit</td>
+    <td class="tg-0lax">To visit Reddit page in new tab</td>
+    <td class="tg-0lax">Click Reddit icon on footer</td>
+    <td class="tg-0lax">Reddit opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Twitter</td>
+    <td class="tg-0lax">To visit Twitter page in new tab</td>
+    <td class="tg-0lax">Click Twitter icon on footer</td>
+    <td class="tg-0lax">Twitter opened in new tab after click</td>
+  </tr>
+</tbody>
+</table>
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
-[YouTube](https://www.youtube.com/) - opens another page with YouTube.<br>
-[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
-[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
-[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
+### Contact page links
 
-## Contact page links
 
-The following Contact page was tested for their links:
+<br>
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
-[YouTube](https://www.youtube.com/) - opens another page with YouTube<br>
-[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
-[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
-[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Feature</th>
+    <th class="tg-0lax">Expect</th>
+    <th class="tg-0lax">Action</th>
+    <th class="tg-0lax">Result</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Logo</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click logo on the top left hand side</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Home</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click Home link on nav bar</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gallery</td>
+    <td class="tg-0lax">To visit Gallery page on click</td>
+    <td class="tg-0lax">Click Gallery on nav bar</td>
+    <td class="tg-0lax">Gallery page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Contact</td>
+    <td class="tg-0lax">To visit Contact page on click</td>
+    <td class="tg-0lax">Click Contact on nav bar</td>
+    <td class="tg-0lax">Contact page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">YouTube</td>
+    <td class="tg-0lax">To visit YouTube page in new tab</td>
+    <td class="tg-0lax">Click YouTube icon on footer</td>
+    <td class="tg-0lax">YouTube page opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Facebook</td>
+    <td class="tg-0lax">To visit Facebook page in new tab</td>
+    <td class="tg-0lax">Click Facebook icon on footer</td>
+    <td class="tg-0lax">Facebook opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reddit</td>
+    <td class="tg-0lax">To visit Reddit page in new tab</td>
+    <td class="tg-0lax">Click Reddit icon on footer</td>
+    <td class="tg-0lax">Reddit opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Twitter</td>
+    <td class="tg-0lax">To visit Twitter page in new tab</td>
+    <td class="tg-0lax">Click Twitter icon on footer</td>
+    <td class="tg-0lax">Twitter opened in new tab after click</td>
+  </tr>
+</tbody>
+</table>
+<br>
 
-## Mobile Home page links
+### The thank you page 
+<br>
 
-The following Home page was tested for their links:
+<br>
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
-[CTA button](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
-[YouTube](https://www.youtube.com/) - opens another page with YouTube.<br>
-[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
-[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
-[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Feature</th>
+    <th class="tg-0lax">Expect</th>
+    <th class="tg-0lax">Action</th>
+    <th class="tg-0lax">Result</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Logo</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click logo on the top left hand side</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Home</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click Home link on nav bar</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gallery</td>
+    <td class="tg-0lax">To visit Gallery page on click</td>
+    <td class="tg-0lax">Click Gallery on nav bar</td>
+    <td class="tg-0lax">Gallery page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Contact</td>
+    <td class="tg-0lax">To visit Contact page on click</td>
+    <td class="tg-0lax">Click Contact on nav bar</td>
+    <td class="tg-0lax">Contact page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">YouTube</td>
+    <td class="tg-0lax">To visit YouTube page in new tab</td>
+    <td class="tg-0lax">Click YouTube icon on footer</td>
+    <td class="tg-0lax">YouTube page opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Facebook</td>
+    <td class="tg-0lax">To visit Facebook page in new tab</td>
+    <td class="tg-0lax">Click Facebook icon on footer</td>
+    <td class="tg-0lax">Facebook opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reddit</td>
+    <td class="tg-0lax">To visit Reddit page in new tab</td>
+    <td class="tg-0lax">Click Reddit icon on footer</td>
+    <td class="tg-0lax">Reddit opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Twitter</td>
+    <td class="tg-0lax">To visit Twitter page in new tab</td>
+    <td class="tg-0lax">Click Twitter icon on footer</td>
+    <td class="tg-0lax">Twitter opened in new tab after click</td>
+  </tr>
+</tbody>
+</table>
 
-The Hamburger bar worked as expected during the testing of the mobile version of the website. The links above are evidence of a working Hamburger navigation. 
+<br>
 
-## Mobile Gallery page links
+### Mobile Home page links
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Feature</th>
+    <th class="tg-0lax">Expect</th>
+    <th class="tg-0lax">Action</th>
+    <th class="tg-0lax">Result</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Logo</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click logo on the top left hand side</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Home</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click Home link on nav bar</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gallery</td>
+    <td class="tg-0lax">To visit Gallery page on click</td>
+    <td class="tg-0lax">Click Gallery on nav bar</td>
+    <td class="tg-0lax">Gallery page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Contact</td>
+    <td class="tg-0lax">To visit Contact page on click</td>
+    <td class="tg-0lax">Click Contact on nav bar</td>
+    <td class="tg-0lax">Contact page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">CTA button</td>
+    <td class="tg-0lax">To visit Contact page on click</td>
+    <td class="tg-0lax">Click CTA button</td>
+    <td class="tg-0lax">Contact page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">YouTube</td>
+    <td class="tg-0lax">To visit YouTube page in new tab</td>
+    <td class="tg-0lax">Click YouTube icon on footer</td>
+    <td class="tg-0lax">YouTube page opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Facebook</td>
+    <td class="tg-0lax">To visit Facebook page in new tab</td>
+    <td class="tg-0lax">Click Facebook icon on footer</td>
+    <td class="tg-0lax">Facebook opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reddit</td>
+    <td class="tg-0lax">To visit Reddit page in new tab</td>
+    <td class="tg-0lax">Click Reddit icon on footer</td>
+    <td class="tg-0lax">Reddit opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Twitter</td>
+    <td class="tg-0lax">To visit Twitter page in new tab</td>
+    <td class="tg-0lax">Click Twitter icon on footer</td>
+    <td class="tg-0lax">Twitter opened in new tab after click</td>
+  </tr>
+</tbody>
+</table>
 
-The following Gallery page was tested for their links:
+<br>
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
-[YouTube](https://www.youtube.com/) - opens another page with YouTube.<br>
-[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
-[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
-[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
+### Mobile Gallery page links
 
-The Hamburger bar worked as expected during the testing of the mobile version of the website. The links above are evidence of a working Hamburger navigation.<br>
+<br>
 
-## Mobile Contact page links
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Feature</th>
+    <th class="tg-0lax">Expect</th>
+    <th class="tg-0lax">Action</th>
+    <th class="tg-0lax">Result</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Logo</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click logo on the top left hand side</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Home</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click Home link on nav bar</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gallery</td>
+    <td class="tg-0lax">To visit Gallery page on click</td>
+    <td class="tg-0lax">Click Gallery on nav bar</td>
+    <td class="tg-0lax">Gallery page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Contact</td>
+    <td class="tg-0lax">To visit Contact page on click</td>
+    <td class="tg-0lax">Click Contact on nav bar</td>
+    <td class="tg-0lax">Contact page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">YouTube</td>
+    <td class="tg-0lax">To visit YouTube page in new tab</td>
+    <td class="tg-0lax">Click YouTube icon on footer</td>
+    <td class="tg-0lax">YouTube page opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Facebook</td>
+    <td class="tg-0lax">To visit Facebook page in new tab</td>
+    <td class="tg-0lax">Click Facebook icon on footer</td>
+    <td class="tg-0lax">Facebook opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reddit</td>
+    <td class="tg-0lax">To visit Reddit page in new tab</td>
+    <td class="tg-0lax">Click Reddit icon on footer</td>
+    <td class="tg-0lax">Reddit opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Twitter</td>
+    <td class="tg-0lax">To visit Twitter page in new tab</td>
+    <td class="tg-0lax">Click Twitter icon on footer</td>
+    <td class="tg-0lax">Twitter opened in new tab after click</td>
+  </tr>
+</tbody>
+</table>
 
-The following Gallery page was tested for their links:
+### Mobile Contact page links
 
-[Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
-[Gallery](https://another-user-dev.github.io/1st-milestone-project/gallery.html) - links to gallery page.<br>
-[Contact](https://another-user-dev.github.io/1st-milestone-project/contact.html) - links to contact page.<br>
-[YouTube](https://www.youtube.com/) - opens another page with YouTube.<br>
-[Facebook](https://www.facebook.com/) - opens another page with Facebook.<br>
-[Reddit](https://www.reddit.com/) - opens another page with Reddit.<br>
-[Twitter](https://www.twitter.com/) - opens another page with Twitter.<br>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Feature</th>
+    <th class="tg-0lax">Expect</th>
+    <th class="tg-0lax">Action</th>
+    <th class="tg-0lax">Result</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Logo</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click logo on the top left hand side</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Home</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click Home link on nav bar</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gallery</td>
+    <td class="tg-0lax">To visit Gallery page on click</td>
+    <td class="tg-0lax">Click Gallery on nav bar</td>
+    <td class="tg-0lax">Gallery page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Contact</td>
+    <td class="tg-0lax">To visit Contact page on click</td>
+    <td class="tg-0lax">Click Contact on nav bar</td>
+    <td class="tg-0lax">Contact page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">YouTube</td>
+    <td class="tg-0lax">To visit YouTube page in new tab</td>
+    <td class="tg-0lax">Click YouTube icon on footer</td>
+    <td class="tg-0lax">YouTube page opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Facebook</td>
+    <td class="tg-0lax">To visit Facebook page in new tab</td>
+    <td class="tg-0lax">Click Facebook icon on footer</td>
+    <td class="tg-0lax">Facebook opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reddit</td>
+    <td class="tg-0lax">To visit Reddit page in new tab</td>
+    <td class="tg-0lax">Click Reddit icon on footer</td>
+    <td class="tg-0lax">Reddit opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Twitter</td>
+    <td class="tg-0lax">To visit Twitter page in new tab</td>
+    <td class="tg-0lax">Click Twitter icon on footer</td>
+    <td class="tg-0lax">Twitter opened in new tab after click</td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+### Mobile thank you page 
+<br>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Feature</th>
+    <th class="tg-0lax">Expect</th>
+    <th class="tg-0lax">Action</th>
+    <th class="tg-0lax">Result</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Logo</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click logo on the top left hand side</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Home</td>
+    <td class="tg-0lax">To visit Home page on click</td>
+    <td class="tg-0lax">Click Home link on nav bar</td>
+    <td class="tg-0lax">Home page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gallery</td>
+    <td class="tg-0lax">To visit Gallery page on click</td>
+    <td class="tg-0lax">Click Gallery on nav bar</td>
+    <td class="tg-0lax">Gallery page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Contact</td>
+    <td class="tg-0lax">To visit Contact page on click</td>
+    <td class="tg-0lax">Click Contact on nav bar</td>
+    <td class="tg-0lax">Contact page opened after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">YouTube</td>
+    <td class="tg-0lax">To visit YouTube page in new tab</td>
+    <td class="tg-0lax">Click YouTube icon on footer</td>
+    <td class="tg-0lax">YouTube page opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Facebook</td>
+    <td class="tg-0lax">To visit Facebook page in new tab</td>
+    <td class="tg-0lax">Click Facebook icon on footer</td>
+    <td class="tg-0lax">Facebook opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reddit</td>
+    <td class="tg-0lax">To visit Reddit page in new tab</td>
+    <td class="tg-0lax">Click Reddit icon on footer</td>
+    <td class="tg-0lax">Reddit opened in new tab after click</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Twitter</td>
+    <td class="tg-0lax">To visit Twitter page in new tab</td>
+    <td class="tg-0lax">Click Twitter icon on footer</td>
+    <td class="tg-0lax">Twitter opened in new tab after click</td>
+  </tr>
+</tbody>
+</table>
 
 The Hamburger bar worked as expected during the testing of the mobile version of the website. The links above are evidence of an Hamburger navigation working as intended. 
 
-## Contact forms
+### Contact forms
 
 Both large and small screen version of the contact form were tested for their data validation. Data were required for each field.
 
@@ -423,11 +869,13 @@ The submit button functioned as normal.
 
 Limitations of testing: unable to check if data were received by the backend.
 
-# Automated testing
+<br>
+
+### Automated testing
 
 <br>
 
-# 1. Lighthouse - larger screens
+## 1. Lighthouse - larger screens
 <br>
 
 ## Index page performance
@@ -438,15 +886,24 @@ Limitations of testing: unable to check if data were received by the backend.
 
 <hr>
 
-## Gallery page performance
+### Gallery page performance
 <br>
 <img src="assets/r-images/lighthouse-desktop-gallery.jpg" alt="Gallery page performance">
 
 <hr>
 
-## Contact page performance
+### Contact page performance
 <br>
 <img src="assets/r-images/lighthouse-desktop-contact.jpg" alt="Contact page performance">
+<br>
+<hr>
+<br>
+
+<hr>
+
+### Thank you page performance 
+<br>
+<img src="assets/r-images/lighthouse-desktop-thankyou.jpg" alt="Thankyou page performance">
 <br>
 <hr>
 <br>
@@ -474,48 +931,67 @@ Limitations of testing: unable to check if data were received by the backend.
 <img src="assets/r-images/lighthouse-mobile-contact.jpg" alt="Contact page lighthouse performance">
 <br>
 <hr>
+<hr>
 
-# 3. W3c Jigsaw Validator tool
+### Thank you page performance 
+<br>
+<img src="assets/r-images/lighthouse-mobile-thankyou.jpg" alt="Thankyou page performance">
+<br>
+<hr>
 <br>
 
-## Index page
+## 3. W3c Jigsaw Validator tool
+<br>
+
+### Index page
 <br>
 
 <img src="assets/r-images2/jigsaw-index.jpg" alt="Index page Jigsaw validation">
 
 <br>
 
-## Gallery page
+### Gallery page
 <br>
 
 <img src="assets/r-images2/jigsaw-gallery.jpg" alt="gallery page Jigsaw validation">
 
 <br>
 
-## Contact page
+### Contact page
 <br>
 
 <img src="assets/r-images2/jigsaw-contact.jpg" alt="contact page Jigsaw validation">
 <hr>
 <br>
 
-#  W3c Jigsaw Validator tool<br>
+### Thank you page
+<br>
 
-## Index page<br><br>
+<img src="assets/r-images2/jigsaw-thankyou.jpg" alt="Thank you page Jigsaw validation">
+<hr>
+<br>
+
+##  W3c Jigsaw Validator tool<br>
+
+### Index page<br><br>
 
 <img src="assets/r-images2/w3cvalidatorindex.jpg" alt="Index page W3C validation"> <br><br><hr>
 
-## Gallery page<br><br>
+### Gallery page<br><br>
 
 <img src="assets/r-images2/w3cvalidatorgallery.jpg" alt="Gallery page W3C validation"><br><hr>
 
-## Contact page<br><br>
+### Contact page<br><br>
 
 <img src="assets/r-images2/w3cvalidatorcontact.jpg" alt="Contact page W3C validation"><br><hr>
 
-# Summary of automated testing<br>
+### Contact page<br><br>
 
-The automated testing screenshots above shows a clean bill of health in all of their metrics. The Lighthouse's accessibility scores for the gallery and contact pages can be further improved. One way is to use the ink blue colour for the title at the expense of visual design. With more time, one could explore the use of contrasting the light blue through CSS or Photoshop editing.
+<img src="assets/r-images2/w3cvalidatorthankyou.jpg" alt="Thank you page W3C validation"><br><hr>
+
+### Summary of automated testing<br>
+
+The automated testing screenshots above shows a clean bill of health in all of their metrics. The Lighthouse's accessibility scores for the gallery and contact pages have score 94 per cent or more. The Home page has achieved 100 per cent for Lighthouse accessibility.
 <br>
 
 # End User Assessment
@@ -526,39 +1002,41 @@ The website has achieved many of its initial aims:
 * easy to navigate
 * clean design
 
-# Credits
-
+## Credits
+<br>
 Hannah Morgan: hero image link https://unsplash.com/photos/ycVFts5Ma4s
-
+<br>
 Olga Zabegina: image https://unsplash.com/photos/A3MleA0jtoE
-
+<br>
 Laura Chouette: image https://unsplash.com/photos/CjB-8NY5at8
-
+<br>
 Laura Chouette: image https://unsplash.com/photos/QzekrIW57-4
-
+<br>
 Jacob Blakenship: image https://unsplash.com/photos/lfJil4DrWRU
-
+<br>
 Gregory Hayes image: https://unsplash.com/photos/h5cd51KXmRQ
-
+<br>
 Bejamin Rascoe image: https://unsplash.com/photos/ItqFmSxKnIg
-
+<br>
 Rafaella Mendes Diniz: image https://unsplash.com/photos/4lFzZTnaIcQ
-
+<br>
 Ali Morshedlou image: https://unsplash.com/photos/WMD64tMfc4k
-
+<br>
 Madhi Bafande image: https://unsplash.com/photos/6f5KtX2GGv4
 <br>
 Hamburger toggle code from Caler Edwards [YouTube](https://www.youtube.com/watch?v=xMTs8tAapnQ)
-
+<br>
 Gallery styling and its html structure came from [YouTube](https://www.youtube.com/watch?v=RuJyYiRttpI)
-
+<br>
 Thanks to:
-
+<br>
 Spencer Barriball who suggested the use of height: auto to resolve spilling of content into other sections & slight amendments to the contact form.
-
+<br>
 Chris Quinn, who suggested making slight alterations to contact form, advice on how to resolve the 20 code violations identified from the W3C validation checker.
-
+<br>
 Oisin from Tutor Support, Code Institute, who helped resolved the live website deployment on Github.
+
+
 
 
 
