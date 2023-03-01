@@ -1060,8 +1060,8 @@ The website has achieved many of its initial aims:
 
 <br>
 
-## Deploying
-
+## Deploying code
+ 
 ### Credits
 <br>
 Hannah Morgan: hero image link https://unsplash.com/photos/ycVFts5Ma4s
