@@ -1,8 +1,10 @@
 # PROJECT MILESTONE ONE - STYLE CONTROL WEBSITE
 
 <img src="assets/r-images/responsiveness.jpg" alt="Am I Responsive">
+<br>
 
 ## Website:
+<br>
 
 Live deployed [link](https://another-user-dev.github.io/1st-milestone-project/)
 
@@ -12,243 +14,324 @@ This is my first website for the milestone one project. A requirement by Code In
 
 <hr>
 
-# The main aim of this website
-* To allow customers to understand the services and benefits provided by a fictional group of elitist fashion stylists
-* Provide an easy pathway for customers looking to up their game in the style stakes
-* To give inspiration to customers who are looking to bring out the best version of theirselves
+### User Perspective
+<br>
 
-# UX - User Experience 
+* To intuitively navigate a website using a navigation bar 
+* To view a well designed structured website with the ease of accessing required information, consistent styling of links and buttons to aid navigation
+* Not be distracted by poor user interface experience such as: dead links, external links not opening in a separate page' information is not distracted with background
+* Able to find information according to expectations
+* View services in a defined structure and visually pleasing web pages
+* Ease of contacting the business through use of call to action buttons and navigation links
+* Able to use various technology devices (laptops, tablets, mobile phones) to surf the website
+<br>
 
-The project was planned in 5 stages. 
+### Business Perspective
+<br>
 
-1st stage - Strategy Plane <br>
-2nd stage - Scope Plane <br>
-3rd stage - Structure Plane <br>
-4th stage - Skeleton Plane <br>
-5th stage - Surface Plane  <br>
-
-# The Strategy Plane 
-
-
-## User Perspective
-
-* Looking to buy services to improve their appearances
-* Expedient solution to buying clothes for time poor professionals
-* Finding the inspiration to becoming the new version of themseves
-* Making efficient use of their wardrobe for maximum gains with minimal outlay
-
-
-## Business Perspective
-* Using the website as a starting point in obtaining customers
-* Provide a scalable platform where more services can be offered as the business develops - for example events management
-* Promoting their services to time poor professionals 
-* Selling services to people who are looking to bring out the best version of themselves
-* To provide inspirational ideas to future customers
-* To offer value in improving customer lifestyle
-
-# The Scope Plane
-To provide a website to bring together customers and stylists. The website consists of three pages. Each page has the following content:
-
-* a stylish home page showcasing their products and sets the narrative on the stylists' background
-* a gallery page to provide inspirational ideas to customers 
-* a contact page to initiate the come togetherness between customers and stylists
-
-Content must be accessible through a range of technology devices such as mobile phones, tablets, laptops and desktops. Since customers use different devices to access the internet.
-
-The features of the website: 
-
-## The navigation header
-
-<img src="assets/r-images/readme-navigation-bar.jpg" alt="navigation header">
-
-The navigation header, as seen as above, appears consistently on the top of the three main content pages. The company's logo is featured on the left hand side of the navigation bar while there are navigation links for other pages on the right hand side. 
-
-This familiar menu bar adds consistency to the design language and helps the user to navigate across the three pages with comfort.
+* To provide an intuitive navigable website with a clear structured layout
+* To provide a website meeting the needs of accessible guidelines such as gallery pictures annotated with alternative text for screen readers
+* To provide a website with a clean design that promotes the business in a professional tone
+* Use of website as a starting point for obtaining customers
+* Promoting social media websites 
+* Provide a scalable platform where more services can be offered as the business develops - for example adding events management service to the home page
+* Enable customers to surf the website using a variety of devices such desktops, laptops, tablets and mobile phones
+<br>
 
 
-<img src="assets/r-images/readme-navigation-bar-mobile.jpg" alt="mobile navigation header">
+## The features of the website: 
+<br>
 
-
-Similarly, the mobile header bar offers the same functionality and purpose as its desktop brethren but in a smaller form factor. The hamburger icon neatly displays and retracts the navigation links.
-
-## Content section
-
-<img src="assets/r-images/readmeheroimagecontent.jpg" alt="hero image content">
-
-Here we see the content page featuring a hero image  with a carrot on a stick special offer and a call for action button to book a free consultation. 
-
-<img src="assets/r-images/readmobileimagecontent.jpg" alt="mobile content without hero image content">
-
-The mobile content does not feature the hero image but still displays the same carrot on a stick offer with a call for action button to book a free consulation button. 
-
-This allows a mobile device to have a clutter free visual appearance.
-
-
-## Footer section
-
-<img src="assets/r-images/readmedesktopfooter.jpg" alt="large screen footer image">
-
-<img src="assets/r-images/readmemobilefooter.jpg" alt="mobile footer image">
-
-The above two images show the footer for the larger screen and mobile phone screen. There is no loss in functionality or feature between the two types of footer. 
-
-## Services
-
-<img src="assets/r-images/readmecontentservices.jpg" alt="desktop services content">
-
-<img src="assets/r-images/readmemobilecontentservices.jpg" alt="mobile services content">
-
-Again, both images display services content in various combinations to take full advantage of screen width at its disposal.
-
-## Gallery Page
-
-<img src="assets/r-images/readmegallerypage.jpg" alt="gallery content">
-
-The gallery page inspires customers to up their style game and encourage to buy services on offer. Images were sourced from Unsplash.
-
-## Contact Us Page
-
-<img src="assets/r-images/readmecontactpage.jpg" alt="image of contact us page">
-
-This simple contact us page provides the customer a facility to contact the stylists. The call for action buttons also links to this page from the hero image text. Thereby the contact us page is a very important structure of the website and starts the journey for customers toward services.
-
-# Structure Plane
+### Structure of the website
 
 The website consists of a home page, gallery page and a contact us page. Each page has a navigation bar in the header, a content section covering the mid part of the page and footer section containing useful information and social media links.
 
-# The Skeleton Plane
+### The navigation header
+<br>
+<br>
+<img src="assets/r-images/readme-navigation-bar.jpg" alt="navigation header">
+<br>
+<br>
+The navigation header, as seen as above, appears consistently on the top of the three main content pages. The company's logo is featured on the left hand side of the navigation bar while there are navigation links for other pages on the right hand side. 
+<br>
+<br>
+This familiar menu bar adds consistency to the design language and helps the user to navigate across the three pages without confusion.
+<br>
+<br>
+<img src="assets/r-images/readme-navigation-bar-mobile.jpg" alt="mobile navigation header">
 
+<br>
+<br>
+
+Similarly, the mobile header bar offers the same functionality and purpose as its desktop brethren but in a smaller form factor. The hamburger icon neatly displays and retracts the navigation links. Increasing the screen width also closes the navigation links without having to select the Hamburger icon.
+<br>
+<br>
+
+### Content section
+<br>
+<br>
+<img src="assets/r-images/readmeheroimagecontent.jpg" alt="hero image content">
+<br>
+<br>
+Here we see the content page featuring a hero image  with a carrot on a stick special offer and a call for action button to book a free consultation. 
+<br>
+<br>
+<img src="assets/r-images/readmobileimagecontent.jpg" alt="mobile content without hero image content">
+<br>
+<br>
+The mobile content does not feature the hero image but still displays the same carrot on a stick offer with a call for action button to book a free consulation button. 
+<br>
+<br>
+This allows a mobile device to have a clutter free visual appearance.
+<br>
+<br>
+
+###  Footer section
+<br>
+
+<img src="assets/r-images/readmedesktopfooter.jpg" alt="large screen footer image">
+<br>
+<br>
+<img src="assets/r-images/readmemobilefooter.jpg" alt="mobile footer image">
+<br>
+<br>
+The above two images show the footer for the larger screen and mobile phone screen. There is no loss in functionality or feature between the two types of footer. 
+
+<br>
+
+
+### Services
+
+<br>
+
+<img src="assets/r-images/readmecontentservices.jpg" alt="desktop services content">
+
+<br>
+
+<img src="assets/r-images/readmemobilecontentservices.jpg" alt="mobile services content">
+
+<br>
+
+Again, both images display services content in various combinations to take full advantage of screen width at its disposal.
+
+<br>
+
+
+### Gallery Page
+<br>
+
+<img src="assets/r-images/readmegallerypage.jpg" alt="gallery content">
+<br>
+
+The gallery page gives an eye pleasing visual images. The photos were sourced from Unsplash.com and were chosen for their timeless style and perfect fit of clothes. This ties in with the role of the stylist. Whose main aim is to advise on well fitting clothes and timeless styling advise.
+<br>
+
+The mobile phone gallery is displayed in a vertical order.
+
+<br>
+
+### Contact Us Page
+
+<br>
+
+<img src="assets/r-images/readmecontactpage.jpg" alt="image of contact us page">
+<br>
+
+This simple contact us page provides the customer a facility to contact the stylists. The call for action buttons also links to this page from the hero image text. Thereby the contact us page is a very important structure of the website that starts the journey for customers toward services.
+<br>
+
+### Structure of the website
+<br>
+The website consists of a home page, gallery page and a contact us page. Each page has a navigation bar in the header, a content section covering the mid part of the page and footer section containing useful information and social media links.
+<br>
+
+#### Thank you page
+<br>
+<img src="assets/r-images/thankyou-page.jpg" alt="thank you page">
+
+<br>
+
+User feedback suggested the use of a thank you page which thanks the user for completing the contact form. This adds a nice personal touch and professionalism.
+<br>
+
+### Wireframes of website
+<br>
 My main aim was to produce an effective layout for all device types.
-
+<br>
 Here are my sketches for the website pages including desktop and mobile devices.
-
+<br>
 [Wireframe page 1](assets/r-images/readmesketch1.jpg)
-
+<br>
 [Wireframe page 2](assets/r-images/readmesketch2.jpg)
-
+<br>
 [Wireframe page 3](assets/r-images/readmesketch3.jpg)
+<br>
+I feel I have mostly achieved in a building a website according to those website. The only slight change was the gallery page for the larger screen. A different layout broke up the the monotony of uniformed square boxes.
 
-I feel I have mostly achieved in a building a website according to those website.
+<br>
 
-# Surface Plane
+### Design considerations
 
-Colours were sourced from Coolers.co and I used Google to find the hex code for blue ink. Usage of colours was sparse and consistent in order to produce an understated corporate style website. Hover pseudo classes were used in conjunction with colour effects on links and buttons. 
+<br>
+
+Blue is the dominate colour on the website. It was chosen as blue is known to instill trust and trust is very important concept in business.
+<br>
+
+Colours were sourced from Coolers.co and I used Google to find the hex code for blue ink, colour cornflower blue. Usage of colours was sparse and consistent in order to produce an understated corporate style website. Hover pseudo classes were used in conjunction with colour effects on links and buttons. 
+<br>
 
 Fonts were sourced from Google fonts. Bubble gum Sans provided a nice text for company logo. While Montserrat is a popular font for websites.
+<br>
 
 Font Awesome provided style fonts such as social media logos as well as visual clues for services within the home content page.
+<br>
+Internal navigation links, buttons and Hamburger bar all feature consistent styling. Ink blue background with
 
-# Technologies utilised
+### Technologies utilised
+
+<br>
 
 HTML5 for markup <br>
 CSS3 for style <br>
 Google Fonts for fonts <br>
 Github to keep the file <br>
 Gitpod for version control <br>
+[AmIresponsive](https://ui.dev/amiresponsive)<br>
 Coolers.co to build a colour palette for the site <br>
 Font Awesome for icons <br>
+Chrome tools<br>
 Unsplash for all the images on the site <br>
-https://www.iloveimg.com/ to compress file size for images <br>
+[iloveimg.com](https://www.iloveimg.com/) to compress file size for images <br>
 
-# Debugging the code for the website
+## Debugging the code for the website
 
 There were a number of issues which slowed the development of the website.
 
 1. Div and section heights had caused formatting issues such as content flowing from one section to another unexpectedly. My mentor had advised on a fix which solved the issue by removing the set height to auto in each section.
+<br>
 
 2. This Bootstrap code <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"> caused the content on the home page to spill out of the content container. Removing this link resulted in the content reverting to its original state.
+<br>
 
-I originally planned to use Bootstrap for the main navigation and burger menu. I realised Bootstrap was unviable due to the issues as described.
+3. I originally planned to use Bootstrap for the main navigation and burger menu. I realised Bootstrap was unviable due to the issues as described above. Flexbox provided the perfect opportunity to replace the Bootstrap requirement.
+<br>
 
-3. A mismatch of section widths caused the content to flow horizontally. This was resolved by ensuring the content widths were harmonised.
+4. A mismatch of section widths caused the content to flow horizontally. This was resolved by ensuring the content widths were harmonised by using a centred max-width page with width at 100%.
+<br>
 
-4. Implementing the burger menu turned out to be very difficult. This was because the toggle code in the media query required to share the same parent tag in HTML and CSS. This was tested commenting out the code in one section and applying the same code in another.
+5. Implementing the burger menu turned out to be very difficult. This was because the toggle code in the media query required to share the same parent tag in HTML and CSS as other associated code. This was tested commenting out the code in one section and applying the same code in another. Ultimately, this led to having a more appreciation of HTML/CSS code.
+<br>
 
-5. The adblocker in my browser caused the setting up of an image folder to inline in Gitpod. This resulted the folder to have an unexpected file path. The solution was to delete the folder and deactivate the adblocker before setting up a new folder.
+6. The adblocker in my browser caused the setting up of an image folder to inline in Gitpod. This resulted the folder to have an unexpected file path. The solution was to delete the folder and deactivate the adblocker before setting up a new folder.
+<br>
 
-6. Github refused to give an active URL for my website after deployment. The issue was resolved after contacting tutor support. The issue resolved itself as soon as I enetered a git push command in Gitpod.
+7. Github refused to give an active URL for my website after deployment. The issue was resolved after contacting tutor support. The issue resolved itself as soon as I enetered a git push command in Gitpod.
+<br>
 
-7. The screen reader refused to read out the alt text for the photos in the gallery section. The issue is unresolved but student support indicated that there isn't a penalty for the project as long as the photos have alt text added. The issue did not appear during testing with Firefox browser. 
+8. The screen reader refused to read out the alt text for the photos in the gallery section while using the Chrome browser. The issue is unresolved but student support indicated that there isn't a penalty for the project as long as the photos have alt text added. The issue did not appear during testing with Firefox browser. It seems likely there is a bug in Chrome.
+<br>
 
-8. An issue appeared where the footer CSS was corrupted with a cross typo error from git. This caused formatting issues in the footer. Fortunately the problem was identified and corrected.
+9. An issue appeared where the footer CSS was corrupted with a cross typo error from git. This caused formatting issues in the footer. Fortunately the problem was identified and corrected.
+<br>
 
-9. Hamburger icon had an extended background which almost reached the top of the header. Chrome tools was used to investigate the anomaly. Each part of the code in the header was inspected and the styling CSS was displayed under styles. The issue was resolved after deleting the line height and adjusting the margin-top to the CSS code for desktop and mobile. The newly styled Hamburger menu was saved under the commit message "Add styling to Hamburger menu". 
+10. Hamburger icon had an extended background which almost reached the top of the header. Chrome tools was used to investigate the anomaly. Each part of the code in the header was inspected and the styling CSS was displayed under styles. The issue was resolved after deleting the line height and adjusting the margin-top to the CSS code for desktop and mobile. The newly styled Hamburger menu was saved under the commit message "Add styling to Hamburger menu". 
+<br>
 
-10. Low contrast ratio for white text and cornflower blue background resulted in lowering the Lighthouse accessibility score by 4 to 5% on Lighthouse the gallery and contact page. There was a conflict between design and accessibility. I liked the white text against the blue background which was more consistent with the design of the website. I also wanted the website to have a 100 per cent compliance with accessibility.
+11. Low contrast ratio for white text and cornflower blue background resulted in lowering the Lighthouse accessibility score by 5 to 6% on Lighthouse the gallery and contact page. There was a conflict between design and accessibility. I liked the white text against the blue background which was more consistent with the design of the website. I also wanted the website to have a 100 per cent compliance with accessibility.
 <br>
 Further research on accessibility colours led me to this website [UXmovement.com](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/). After reading this article, changing the colours to become more accessibility compliant meant there was no guarantee it would improve accessibility for users. In some cases it may worsen for some. 
 <br>
 Upon reflection, I've decided to keep the colours as they are now given the high accessibility Lighthouse scores and the title header not having a significant impact on understanding the content. It is visually obvious the difference between a contact and a gallery page. 
+<br>
 
 
+### Manual testing
 
-
-
-
-
-# Manual testing
-
-1. The website was tested on Chrome, Firefox and Brave browsers. No adverse affects were found. I was unable to use Safari as not provided a Windows version for years.
-
+1. The website was tested on Chrome, Firefox and Brave browsers. No adverse affects were found. I was unable to use Safari as its developer has not provided a Windows version for years.
+<br>
 2. The website is easy to navigate and the hamburger menu worked effectively.
-
-3. Responsiveness were tested using all devices and screen widths. No adverse effects were seen for screen widths down to iPhone SE. 
-
+<br>
+3. Responsiveness were tested using all devices and screen widths. No adverse effects were seen for screen widths down to Galaxy Fold. 
+<br>
 ## Home page links
-
-The following Home page was tested for their links:
-
-|                 |                |               |
-|-----------------|----------------|---------------|
-|          merged row  hhhhhhhhhhhhhhhhhhhhhhhh        |
-|-----            |-------         |----           |
-| cell            |    Cell        |   Cell        |
-|    a            |   b            | c             |
-
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0lax">Feature</th>
+    <th class="tg-0lax">Expect</th>
+    <th class="tg-0lax">Action</th>
+    <th class="tg-0lax">Result</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0lax"><a href=”another-user-dev.github.io/1st-milestone-project/index.html”>Logo</a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><</td>
   </tr>
   <tr>
-    <td class="tg-0pky">h</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0lax">a href=”https://another-user-dev.github.io/1st-milestone-project/contact.html”>Contact</a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0lax"><a href=”https://another-user-dev.github.io/1st-milestone-project/gallery.html”>Gallery</a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href=”https://another-user-dev.github.io/1st-milestone-project/index.html”>Home</a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href=”https://another-user-dev.github.io/1st-milestone-project/contact.html”>CTA button</a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href=”https://www.youtube.com/” target=”_blank”>YouTube</a</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href=”https://www.facebook.com/” target=”_blank”>target=”_blank”>Facebook</a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href=”https://www.reddit.com/” target=”_blank”> target=”_blank”>Reddit</a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href=”https://www.twitter.com/” target=”_blank”>target=”_blank”>Twitter</a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
+
+
+  
 
 [Logo](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
 [Home](https://another-user-dev.github.io/1st-milestone-project/index.html) - links to home page.<br>
