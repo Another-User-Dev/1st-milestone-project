@@ -14,6 +14,66 @@ This is my first website for the milestone one project. A requirement by Code In
 
 <hr>
 
+- [PROJECT MILESTONE ONE - STYLE CONTROL WEBSITE](#project-milestone-one---style-control-website)
+  * [Website:](#website-)
+    + [User Perspective](#user-perspective)
+    + [Business Perspective](#business-perspective)
+  * [The features of the website:](#the-features-of-the-website-)
+    + [Structure of the website](#structure-of-the-website)
+    + [The navigation header](#the-navigation-header)
+    + [Content section](#content-section)
+    + [Footer section](#footer-section)
+    + [Services](#services)
+    + [Gallery Page](#gallery-page)
+    + [Contact Us Page](#contact-us-page)
+    + [Structure of the website](#structure-of-the-website-1)
+    + [Thank you page](#thank-you-page)
+    + [Wireframes of website](#wireframes-of-website)
+    + [Future features](#future-features)
+    + [Design considerations](#design-considerations)
+    + [Technologies utilised](#technologies-utilised)
+  * [Debugging the code for the website](#debugging-the-code-for-the-website)
+    + [Manual testing](#manual-testing)
+    + [Home page links](#home-page-links)
+    + [Gallery page links](#gallery-page-links)
+    + [Contact page links](#contact-page-links)
+    + [The thank you page](#the-thank-you-page)
+    + [Mobile Home page links](#mobile-home-page-links)
+    + [Mobile Gallery page links](#mobile-gallery-page-links)
+    + [Mobile Contact page links](#mobile-contact-page-links)
+    + [Mobile thank you page](#mobile-thank-you-page)
+    + [Contact forms](#contact-forms)
+    + [Automated testing](#automated-testing)
+  * [1. Lighthouse - larger screens](#1-lighthouse---larger-screens)
+    + [Index page performance](#index-page-performance)
+    + [Gallery page performance](#gallery-page-performance)
+    + [Contact page performance](#contact-page-performance)
+    + [Thank you page performance](#thank-you-page-performance)
+  * [2. Lighthouse - mobile screens](#2-lighthouse---mobile-screens)
+    + [Index page performance](#index-page-performance-1)
+    + [Gallery page performance](#gallery-page-performance-1)
+    + [Contact page performance](#contact-page-performance-1)
+    + [Thank you page performance](#thank-you-page-performance-1)
+  * [3. W3c Jigsaw Validator tool](#3-w3c-jigsaw-validator-tool)
+    + [Index page](#index-page)
+    + [Gallery page](#gallery-page)
+    + [Contact page](#contact-page)
+    + [Thank you page](#thank-you-page-1)
+  * [W3c Jigsaw Validator tool<br>](#w3c-jigsaw-validator-tool-br-)
+    + [Index page<br><br>](#index-page-br--br-)
+    + [Gallery page<br><br>](#gallery-page-br--br-)
+    + [Contact page<br><br>](#contact-page-br--br-)
+    + [Contact page<br><br>](#contact-page-br--br--1)
+    + [Summary of automated testing<br>](#summary-of-automated-testing-br-)
+    + [End User Assessment](#end-user-assessment)
+    + [Deploying website in Github](#deploying-website-in-github)
+    + [Forking website](#forking-website)
+    + [Credits](#credits)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+<hr>
+
 ### User Perspective
 <br>
 
@@ -113,7 +173,6 @@ The above two images show the footer for the larger screen and mobile phone scre
 Again, both images display services content in various combinations to take full advantage of screen width at its disposal.
 
 <br>
-
 
 ### Gallery Page
 <br>
@@ -257,14 +316,15 @@ Upon reflection, I've decided to keep the colours as they are now given the high
 
 1. The website was tested on Chrome, Firefox and Brave browsers. No adverse affects were found. I was unable to use Safari as its developer has not provided a Windows version for years.
 <br>
+
 2. The website is easy to navigate and the hamburger menu worked effectively.
 <br>
+
 3. Responsiveness were tested using all devices and screen widths. No adverse effects were seen for screen widths down to Galaxy Fold (280px wide). 
 <br>
 
 ### Home page links
 <br>
-
 
 <table class="tg">
 <thead>
